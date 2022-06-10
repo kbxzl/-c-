@@ -1,0 +1,610 @@
+1:Adventure 84 |Animation 29 |Children 42 |Comedy 81 |Fantasy 45 |Romance 26 |Action 89 |Crime 43 |Thriller 51 |Mystery 16 |Horror 13 |Drama 67 |War 22 |Western 7 |Sci-Fi 40 |Musical 22 |Film-Noir 1 
+2:Crime 9 |Drama 15 |Comedy 7 |Romance 1 |Action 11 |Adventure 3 |Thriller 8 |IMAX 4 |War 1 |Horror 1 |Mystery 2 |Documentary 3 |Sci-Fi 4 |Western 1 
+3:Action 10 |Adventure 6 |Sci-Fi 13 |Thriller 6 |Fantasy 3 |Horror 8 |Comedy 1 |Mystery 1 |Drama 1 
+4:Comedy 83 |Crime 22 |Thriller 27 |Drama 92 |Romance 45 |Documentary 2 |Action 18 |Adventure 23 |Sci-Fi 6 |Fantasy 15 |Western 8 |Mystery 16 |Animation 6 |Children 9 |Musical 15 |Horror 4 |IMAX 1 |War 5 |Film-Noir 3 
+5:Adventure 6 |Animation 6 |Children 9 |Comedy 13 |Fantasy 7 |Crime 12 |Thriller 8 |Drama 24 |Romance 8 |Mystery 1 |Action 7 |War 2 |IMAX 3 |Horror 1 |Musical 5 |Sci-Fi 1 |Western 1 
+6:Adventure 46 |Children 46 |Fantasy 25 |Comedy 113 |Romance 67 |Drama 135 |Action 60 |Crime 29 |Thriller 63 |Animation 14 |Horror 19 |Mystery 14 |Sci-Fi 19 |War 11 |IMAX 3 |Western 11 |Film-Noir 1 |Musical 12 
+7:Adventure 38 |Animation 11 |Children 11 |Comedy 32 |Fantasy 14 |Crime 18 |Mystery 10 |Thriller 32 |Drama 37 |Romance 16 |IMAX 4 |Action 45 |Sci-Fi 29 |War 8 |Musical 8 |Horror 4 |Film-Noir 2 
+8:Adventure 8 |Children 4 |Fantasy 4 |Comedy 21 |Drama 18 |Romance 14 |Crime 8 |Thriller 15 |Mystery 3 |Sci-Fi 4 |Action 10 |War 3 |IMAX 2 |Horror 2 |Animation 1 |Musical 1 |Western 1 
+9:Drama 18 |War 2 |Comedy 13 |Thriller 6 |Film-Noir 1 |Romance 4 |Mystery 3 |Action 6 |Adventure 9 |Sci-Fi 5 |Western 1 |Crime 6 |Musical 1 |Fantasy 2 |Animation 1 |Children 1 |IMAX 1 
+10:Comedy 61 |Drama 54 |Romance 65 |War 4 |Adventure 26 |Animation 14 |Children 12 |Musical 8 |Action 21 |Fantasy 16 |Sci-Fi 2 |IMAX 15 |Crime 8 |Thriller 10 |Mystery 2 |Horror 1 
+11:Action 41 |Crime 12 |Thriller 30 |Adventure 17 |Drama 23 |War 6 |IMAX 1 |Comedy 10 |Sci-Fi 8 |Romance 13 |Western 2 |Horror 1 |Mystery 3 
+12:Comedy 18 |Romance 21 |Action 2 |Drama 16 |Sci-Fi 3 |Thriller 3 |War 1 |Fantasy 4 |Adventure 2 |Animation 1 |Crime 1 
+13:Mystery 2 |Thriller 10 |Comedy 10 |Romance 6 |Drama 14 |Action 10 |Adventure 6 |Horror 5 |Sci-Fi 5 |War 2 |Fantasy 1 |Western 1 |Crime 3 
+14:Comedy 12 |Drama 24 |Romance 14 |Mystery 2 |Sci-Fi 2 |Thriller 11 |Action 9 |Adventure 8 |War 4 |IMAX 1 |Western 4 |Crime 4 |Children 2 |Musical 1 |Horror 1 
+15:Adventure 42 |Animation 16 |Children 13 |Comedy 22 |Fantasy 10 |Mystery 10 |Thriller 34 |Sci-Fi 47 |Action 39 |Crime 14 |Drama 48 |Romance 12 |War 5 |Musical 3 |IMAX 13 |Horror 11 |Western 1 
+16:Mystery 13 |Thriller 29 |Crime 23 |Drama 46 |Action 23 |Adventure 20 |Sci-Fi 16 |Comedy 24 |Romance 12 |War 10 |Horror 5 |Animation 12 |Children 8 |Film-Noir 5 |Fantasy 16 |Documentary 1 |Western 1 |IMAX 4 
+17:Adventure 35 |Animation 10 |Children 7 |Comedy 19 |Fantasy 17 |Action 39 |Mystery 10 |Thriller 27 |Crime 32 |Drama 51 |War 9 |IMAX 6 |Sci-Fi 20 |Romance 7 |Western 6 |Horror 3 |Musical 3 |Film-Noir 2 |Documentary 1 
+18:Adventure 134 |Animation 31 |Children 32 |Comedy 126 |Fantasy 48 |Action 191 |Crime 134 |Thriller 161 |Drama 211 |Mystery 56 |Sci-Fi 102 |Horror 11 |War 14 |Romance 39 |Western 11 |Musical 12 |IMAX 37 |Film-Noir 8 |Documentary 9 
+19:Adventure 100 |Animation 33 |Children 55 |Comedy 197 |Fantasy 58 |Romance 75 |Mystery 39 |Sci-Fi 60 |Thriller 100 |Drama 74 |Action 87 |Crime 47 |Horror 43 |Musical 22 |IMAX 1 |Western 7 |War 7 |Film-Noir 8 
+20:Adventure 66 |Children 99 |Fantasy 40 |Animation 61 |Drama 64 |Musical 55 |Romance 37 |Comedy 86 |IMAX 5 |Mystery 13 |Sci-Fi 15 |Crime 19 |Horror 9 |Thriller 24 |Action 28 |War 4 |Documentary 2 
+21:Adventure 159 |Animation 46 |Children 49 |Comedy 147 |Fantasy 49 |Action 192 |Thriller 104 |Drama 64 |Musical 10 |Romance 49 |Crime 56 |Sci-Fi 90 |War 7 |IMAX 54 |Mystery 14 |Western 4 |Horror 6 |Film-Noir 2 |(no genres listed) 1 
+22:Adventure 11 |Children 7 |Comedy 21 |Musical 1 |Drama 39 |Horror 3 |Crime 14 |Romance 9 |War 2 |Action 16 |Sci-Fi 6 |Thriller 16 |Animation 6 |Fantasy 4 |Mystery 7 |Film-Noir 1 |Documentary 2 |Western 1 |IMAX 2 
+23:Action 27 |Crime 39 |Thriller 37 |Adventure 18 |Drama 75 |Fantasy 14 |Mystery 22 |Sci-Fi 17 |Comedy 24 |Romance 11 |Animation 10 |War 5 |Film-Noir 11 |Documentary 2 |Horror 3 |Western 3 |Children 3 |IMAX 1 
+24:Action 54 |Crime 23 |Thriller 33 |Mystery 13 |Sci-Fi 25 |Drama 38 |Horror 4 |Comedy 47 |Adventure 32 |Romance 29 |War 7 |Fantasy 15 |Musical 1 |Animation 2 |Children 2 |IMAX 10 
+25:Adventure 14 |Comedy 2 |Action 15 |Sci-Fi 9 |Drama 12 |War 4 |Thriller 4 |Fantasy 3 |Crime 4 |IMAX 3 |Animation 3 |Children 3 |Romance 1 |Mystery 2 
+26:Action 8 |Adventure 4 |Thriller 13 |Children 1 |Drama 8 |Mystery 1 |IMAX 1 |Comedy 5 |Crime 8 |Romance 2 |War 1 |Horror 1 
+27:Adventure 51 |Animation 17 |Children 36 |Comedy 36 |Fantasy 16 |Drama 39 |Musical 12 |Romance 22 |Action 38 |Sci-Fi 25 |War 12 |IMAX 2 |Crime 6 |Thriller 12 |Western 10 |Mystery 3 |Film-Noir 1 
+28:Action 121 |Crime 90 |Thriller 116 |Comedy 52 |Mystery 34 |Sci-Fi 87 |Drama 220 |War 39 |Romance 22 |Horror 15 |Adventure 78 |Fantasy 19 |Western 20 |Film-Noir 4 |Musical 3 |Animation 4 |IMAX 13 |Children 2 |Documentary 1 
+29:Crime 15 |Mystery 7 |Thriller 20 |Adventure 20 |Drama 49 |IMAX 5 |Action 29 |Comedy 9 |Sci-Fi 17 |Romance 6 |War 22 |Musical 2 |Children 2 |Fantasy 3 |Western 9 |Film-Noir 1 |Animation 1 |Horror 2 |Documentary 2 
+30:Action 25 |Drama 7 |War 1 |Adventure 19 |Sci-Fi 17 |Crime 7 |Thriller 5 |Horror 1 |Fantasy 4 |IMAX 8 |Animation 5 |Children 3 |Romance 2 |Mystery 1 |Comedy 5 
+31:Adventure 14 |Animation 4 |Children 6 |Comedy 19 |Fantasy 7 |Romance 13 |Action 15 |Thriller 11 |Drama 13 |Crime 2 |Musical 5 |Mystery 1 |Sci-Fi 8 |Horror 2 |Documentary 1 |War 1 
+32:Adventure 17 |Animation 2 |Children 6 |Comedy 41 |Fantasy 11 |Romance 29 |Action 29 |Crime 19 |Thriller 31 |Drama 44 |Sci-Fi 9 |Mystery 7 |Documentary 1 |War 3 |Western 1 |Horror 2 |Musical 2 
+33:Adventure 10 |Animation 6 |Children 8 |Comedy 51 |Fantasy 5 |Drama 102 |Romance 48 |Crime 24 |Thriller 25 |Mystery 8 |Sci-Fi 7 |Action 14 |War 8 |IMAX 1 |Musical 6 |Horror 2 |Western 1 |Film-Noir 2 
+34:Action 42 |Adventure 22 |Thriller 22 |Comedy 23 |Horror 8 |Romance 13 |Western 2 |Crime 9 |Drama 17 |War 2 |Sci-Fi 17 |Mystery 5 |Fantasy 10 |Animation 7 |Children 1 |IMAX 2 
+35:Comedy 10 |Drama 8 |Romance 8 |Crime 4 |Thriller 4 |Mystery 1 |Adventure 5 |Children 2 |Fantasy 2 |IMAX 2 |Action 4 |Sci-Fi 1 |Western 1 |Animation 1 |Musical 1 
+36:Drama 10 |Romance 6 |Crime 7 |Action 9 |Mystery 7 |Thriller 8 |Adventure 7 |Comedy 6 |War 2 |Sci-Fi 2 |Film-Noir 1 |Horror 1 
+37:Adventure 7 |Drama 8 |IMAX 1 |Action 6 |Comedy 7 |Crime 7 |Thriller 8 |Sci-Fi 4 |Romance 1 |War 1 |Western 1 |Horror 1 |Animation 1 |Children 2 |Fantasy 2 |Musical 2 
+38:Comedy 31 |Drama 29 |Romance 21 |Crime 7 |Thriller 15 |Animation 4 |Children 7 |Musical 4 |Mystery 3 |Action 14 |War 6 |Adventure 12 |IMAX 2 |Documentary 1 |Sci-Fi 3 |Fantasy 6 |Western 3 |Horror 1 
+39:Mystery 7 |Sci-Fi 18 |Thriller 22 |Crime 23 |Action 27 |Adventure 28 |Comedy 25 |Drama 31 |Animation 20 |Children 19 |Musical 13 |IMAX 1 |Horror 12 |Fantasy 15 |Romance 8 |Film-Noir 1 |War 1 |Western 1 
+40:Adventure 21 |Animation 7 |Children 17 |Comedy 36 |Fantasy 12 |Drama 47 |Romance 20 |Crime 13 |Thriller 15 |Action 21 |Musical 6 |War 3 |IMAX 3 |Mystery 3 |Western 6 |Sci-Fi 8 |Horror 2 
+41:Mystery 15 |Thriller 40 |Crime 40 |Action 18 |Drama 105 |Comedy 72 |Romance 49 |Horror 7 |Animation 12 |Children 8 |Fantasy 13 |Musical 2 |IMAX 1 |War 7 |Sci-Fi 8 |Adventure 19 |Film-Noir 2 |Western 2 
+42:Comedy 162 |Romance 78 |Action 90 |Adventure 56 |Thriller 92 |Drama 153 |Crime 56 |Horror 11 |Mystery 24 |War 18 |IMAX 2 |Western 11 |Sci-Fi 30 |Animation 5 |Children 7 |Musical 7 |Fantasy 19 |Documentary 3 |Film-Noir 1 
+43:Adventure 34 |Animation 13 |Children 32 |Comedy 44 |Fantasy 17 |Romance 25 |Action 31 |Thriller 29 |Drama 42 |Crime 16 |Mystery 4 |Sci-Fi 15 |Musical 12 |War 3 |IMAX 3 |Horror 5 |Western 3 
+44:Adventure 16 |Animation 3 |Children 2 |Comedy 18 |Fantasy 2 |Romance 6 |Action 17 |Crime 4 |Thriller 13 |Drama 9 |Sci-Fi 6 |Mystery 1 |Musical 1 |Horror 2 
+45:Adventure 96 |Animation 31 |Children 48 |Comedy 194 |Fantasy 39 |Action 99 |Crime 47 |Thriller 81 |Romance 65 |Drama 114 |Mystery 18 |Sci-Fi 68 |Horror 15 |Musical 27 |War 14 |IMAX 7 |Western 3 |Documentary 1 
+46:Adventure 13 |Animation 4 |Children 4 |Comedy 12 |Fantasy 3 |Action 18 |Thriller 18 |Mystery 3 |Sci-Fi 7 |Romance 6 |Crime 12 |Drama 15 |War 3 |Horror 2 |Western 3 |Musical 3 |IMAX 2 
+47:Drama 81 |Mystery 6 |Thriller 13 |Adventure 8 |IMAX 4 |Crime 15 |Comedy 16 |Romance 17 |War 5 |Fantasy 2 |Western 1 |Musical 4 |Children 2 |Sci-Fi 5 |Action 4 |Horror 1 |Documentary 7 
+48:Animation 4 |Children 4 |Drama 8 |Musical 2 |Romance 4 |Action 21 |Sci-Fi 18 |Thriller 14 |Adventure 12 |Fantasy 5 |Horror 3 |Comedy 7 |Mystery 2 |Crime 2 |IMAX 2 
+49:Action 7 |Drama 10 |War 4 |Crime 3 |Comedy 5 |Romance 1 |Children 5 |Sci-Fi 9 |Adventure 4 |Horror 2 |Thriller 4 |Animation 4 |Mystery 2 |IMAX 3 
+50:Adventure 33 |Animation 26 |Children 12 |Comedy 64 |Fantasy 25 |Mystery 16 |Sci-Fi 23 |Thriller 35 |Crime 30 |Drama 82 |Action 32 |Romance 18 |War 9 |Horror 10 |Musical 7 |Western 4 |Film-Noir 2 |Documentary 11 |IMAX 2 |(no genres listed) 1 
+51:Adventure 57 |Children 21 |Fantasy 35 |Comedy 145 |Romance 62 |Crime 43 |Drama 106 |Action 69 |Horror 43 |Thriller 65 |Sci-Fi 49 |Western 7 |War 11 |Animation 13 |Musical 12 |Mystery 18 |Film-Noir 3 |Documentary 2 |IMAX 4 
+52:Adventure 39 |Drama 64 |IMAX 16 |Action 73 |Sci-Fi 27 |Crime 36 |Thriller 51 |Comedy 35 |Romance 18 |War 12 |Animation 14 |Children 13 |Musical 3 |Mystery 12 |Documentary 3 |Fantasy 11 |Horror 6 |Western 2 
+53:Comedy 6 |Drama 10 |Romance 6 |Thriller 3 |Action 4 |Sci-Fi 2 |Film-Noir 1 |Adventure 1 |Crime 2 |Musical 2 |War 1 |Horror 1 |Mystery 1 
+54:Adventure 6 |Animation 3 |Children 4 |Comedy 11 |Fantasy 3 |Drama 15 |Romance 6 |Crime 7 |Thriller 13 |Mystery 3 |Sci-Fi 4 |Action 6 |War 3 |IMAX 2 |Musical 2 |Western 1 |Horror 1 
+55:Action 6 |Adventure 2 |Fantasy 1 |Drama 7 |Crime 9 |Thriller 8 |Comedy 4 |Sci-Fi 1 |War 1 |Mystery 1 
+56:Action 24 |Adventure 12 |Thriller 21 |Comedy 16 |Drama 17 |Romance 4 |Mystery 2 |War 3 |Crime 13 |Sci-Fi 9 |Horror 3 |Fantasy 3 |Animation 1 |Children 2 |Musical 1 |IMAX 1 
+57:Adventure 105 |Animation 31 |Children 36 |Comedy 172 |Fantasy 42 |Action 128 |Crime 54 |Thriller 87 |Drama 150 |Romance 82 |Mystery 30 |Sci-Fi 68 |Musical 27 |War 33 |IMAX 4 |Documentary 1 |Western 15 |Horror 10 |Film-Noir 11 
+58:Comedy 44 |Romance 28 |Crime 16 |Thriller 32 |Drama 46 |Horror 1 |Mystery 6 |Sci-Fi 8 |Animation 8 |Children 10 |Musical 9 |Action 24 |War 5 |Adventure 15 |IMAX 3 |Fantasy 10 |Western 3 
+59:Action 31 |Adventure 20 |Thriller 39 |Drama 58 |War 24 |Romance 20 |Crime 16 |Sci-Fi 12 |Mystery 17 |Comedy 21 |Fantasy 5 |Horror 5 |Film-Noir 6 |Children 2 |Animation 2 |Documentary 2 |IMAX 1 
+60:Animation 2 |Children 5 |Drama 15 |Musical 2 |Romance 5 |Crime 6 |Mystery 2 |Thriller 6 |Adventure 6 |Fantasy 2 |War 3 |Action 3 |Comedy 2 |IMAX 1 
+61:Crime 13 |Drama 18 |Mystery 5 |Sci-Fi 8 |Thriller 15 |Action 10 |Comedy 4 |Romance 3 |War 3 |Western 3 |Horror 5 |Adventure 4 |Fantasy 4 
+62:Adventure 128 |Children 21 |Fantasy 66 |Action 161 |Crime 63 |Thriller 111 |Mystery 42 |Drama 142 |War 18 |Sci-Fi 110 |Comedy 87 |Romance 42 |Horror 21 |Western 5 |Animation 11 |IMAX 48 |Musical 5 |Film-Noir 1 |(no genres listed) 3 
+63:Adventure 71 |Animation 31 |Children 24 |Comedy 87 |Fantasy 32 |Action 87 |Thriller 56 |Mystery 21 |Sci-Fi 43 |Drama 76 |Crime 48 |IMAX 16 |Romance 25 |War 13 |Musical 10 |Film-Noir 5 |Western 1 |Horror 6 |Documentary 7 
+64:Adventure 96 |Animation 32 |Children 47 |Comedy 197 |Fantasy 66 |Romance 97 |Action 116 |Crime 89 |Thriller 132 |Drama 227 |Horror 51 |Mystery 51 |Sci-Fi 54 |Musical 27 |War 27 |Western 8 |IMAX 7 |Film-Noir 3 |Documentary 6 
+65:Crime 11 |Drama 25 |War 6 |Action 15 |Thriller 12 |Comedy 5 |Sci-Fi 9 |Mystery 6 |Adventure 7 |Fantasy 4 |Romance 3 |IMAX 6 
+66:Adventure 66 |Animation 16 |Children 18 |Comedy 141 |Fantasy 38 |Crime 56 |Thriller 79 |Drama 147 |Mystery 25 |Sci-Fi 43 |Action 96 |War 14 |Romance 59 |Horror 23 |Musical 6 |Western 10 |Film-Noir 4 |IMAX 1 
+67:Action 20 |Crime 10 |Drama 12 |Thriller 9 |Comedy 17 |Romance 4 |War 3 |Sci-Fi 9 |Adventure 11 |Western 2 |Animation 5 |Children 5 |Fantasy 3 |Mystery 2 |IMAX 1 
+68:Adventure 228 |Animation 64 |Children 77 |Comedy 379 |Fantasy 100 |Action 314 |Crime 141 |Thriller 245 |Drama 365 |Romance 224 |Mystery 56 |Musical 35 |Horror 58 |IMAX 53 |Western 17 |Sci-Fi 142 |War 36 |Film-Noir 3 |Documentary 31 
+69:Crime 7 |Mystery 5 |Thriller 13 |Action 18 |Adventure 11 |Sci-Fi 16 |Comedy 9 |Drama 18 |Romance 4 |War 2 |Western 4 |Horror 5 |Film-Noir 1 |Fantasy 1 
+70:Crime 6 |Drama 50 |Adventure 8 |IMAX 1 |Documentary 2 |Comedy 18 |Romance 14 |War 5 |Children 4 |Fantasy 4 |Sci-Fi 6 |Action 3 |Thriller 2 |Mystery 2 |Western 1 |Horror 1 |Animation 1 
+71:Adventure 15 |Animation 1 |Children 5 |Comedy 7 |Fantasy 4 |Romance 6 |Drama 5 |Action 20 |Thriller 13 |Mystery 2 |Sci-Fi 9 |Crime 3 |War 1 |Musical 1 
+72:Mystery 4 |Sci-Fi 9 |Thriller 14 |Crime 8 |Action 17 |Drama 20 |War 4 |Adventure 10 |IMAX 2 |Comedy 8 |Romance 8 |Western 1 |Horror 3 
+73:Adventure 53 |Animation 17 |Children 17 |Comedy 97 |Fantasy 21 |Drama 63 |Sci-Fi 30 |Crime 25 |Thriller 29 |Action 60 |War 5 |Romance 30 |Horror 4 |Mystery 11 |Western 2 |Musical 4 |IMAX 22 
+74:Comedy 26 |Drama 157 |Romance 28 |Crime 34 |Thriller 46 |Horror 9 |Sci-Fi 7 |Mystery 15 |Action 13 |War 11 |Western 5 |Film-Noir 4 |Fantasy 6 |Adventure 11 |Documentary 1 |Musical 1 
+75:Action 23 |Drama 15 |Romance 7 |Crime 7 |Sci-Fi 16 |Adventure 19 |Thriller 17 |Mystery 8 |War 2 |Horror 3 |Comedy 7 |Western 2 |Fantasy 6 |Animation 5 |Children 5 |Musical 3 |IMAX 1 
+76:Mystery 12 |Thriller 34 |Crime 33 |Drama 38 |Action 25 |Adventure 16 |Sci-Fi 18 |Comedy 22 |Western 3 |Horror 14 |War 7 |Fantasy 6 |Romance 2 |IMAX 6 |Documentary 1 
+77:Action 16 |Adventure 14 |Sci-Fi 8 |Thriller 3 |Drama 4 |Comedy 3 |Romance 1 |Fantasy 5 |IMAX 5 |Animation 1 |Children 1 |Crime 3 
+78:Adventure 18 |Animation 1 |Children 2 |Comedy 21 |Fantasy 2 |Action 28 |Crime 9 |Drama 8 |Thriller 18 |Mystery 2 |Sci-Fi 13 |IMAX 2 |Romance 6 |War 3 |Horror 2 
+79:Action 37 |Crime 11 |Thriller 22 |Film-Noir 1 |Mystery 2 |Documentary 5 |Adventure 19 |Sci-Fi 14 |Drama 20 |Romance 6 |Musical 4 |Comedy 13 |Fantasy 4 |Horror 6 |War 5 
+80:Mystery 36 |Sci-Fi 55 |Thriller 118 |Crime 43 |Adventure 33 |Drama 70 |IMAX 24 |Horror 47 |Action 77 |Children 3 |Fantasy 13 |Comedy 11 |Romance 4 |War 6 |Film-Noir 1 |Animation 1 
+81:Mystery 2 |Sci-Fi 5 |Thriller 10 |Action 9 |Drama 6 |War 2 |Adventure 5 |IMAX 1 |Comedy 2 |Crime 6 |Romance 1 
+82:Adventure 60 |Animation 9 |Children 12 |Comedy 95 |Fantasy 20 |Action 103 |Crime 46 |Thriller 54 |Mystery 10 |Drama 36 |War 7 |Romance 27 |Western 8 |Horror 13 |Sci-Fi 34 |Musical 5 |IMAX 2 |Documentary 1 
+83:Action 25 |Drama 63 |War 20 |Thriller 20 |Crime 10 |Comedy 15 |Romance 18 |Adventure 24 |Animation 8 |Children 6 |Musical 4 |IMAX 9 |Sci-Fi 19 |Fantasy 11 |Mystery 10 |Horror 5 
+84:Comedy 112 |Drama 165 |Romance 92 |Action 31 |Crime 32 |Thriller 46 |Adventure 24 |Children 17 |Mystery 15 |IMAX 1 |War 17 |Film-Noir 3 |Documentary 4 |Sci-Fi 14 |Fantasy 16 |Western 8 |Musical 17 |Horror 11 |Animation 2 
+85:Adventure 1 |Drama 25 |Children 1 |Fantasy 1 |Mystery 2 |Romance 6 |War 2 |Comedy 4 |Thriller 1 |Sci-Fi 1 
+86:Adventure 27 |Animation 12 |Children 11 |Comedy 14 |Fantasy 17 |Action 30 |Crime 9 |Thriller 17 |Sci-Fi 17 |Drama 27 |Romance 16 |War 5 |Musical 2 |Western 1 |IMAX 6 |Mystery 6 |Horror 2 
+87:Adventure 5 |Children 5 |Fantasy 5 |Drama 11 |Action 2 |Comedy 9 |Sci-Fi 6 |Horror 2 |Thriller 3 |Mystery 1 |Animation 3 |Musical 1 |Romance 2 
+88:Crime 17 |Drama 31 |Mystery 9 |Thriller 20 |Comedy 9 |War 4 |Adventure 7 |Horror 3 |Action 16 |Sci-Fi 6 |Western 2 |Fantasy 5 |Romance 2 |IMAX 3 
+89:Adventure 60 |Animation 76 |Children 81 |Comedy 325 |Fantasy 39 |War 9 |Drama 74 |Romance 58 |Musical 12 |Crime 27 |Action 39 |Western 4 |Horror 33 |Mystery 11 |Thriller 16 |Sci-Fi 22 |IMAX 7 |Documentary 4 |(no genres listed) 1 
+90:Adventure 4 |Animation 1 |Children 2 |Comedy 22 |Fantasy 2 |Romance 18 |Drama 32 |Mystery 1 |Sci-Fi 4 |Thriller 6 |Crime 5 |Documentary 4 |Action 3 |Horror 1 |Musical 3 |War 1 
+91:Adventure 114 |Animation 35 |Children 29 |Comedy 123 |Fantasy 59 |Romance 42 |Action 172 |Crime 84 |Thriller 175 |Drama 154 |Horror 84 |Mystery 42 |Sci-Fi 103 |War 15 |IMAX 7 |Western 15 |Musical 16 |Film-Noir 1 |Documentary 7 
+92:Adventure 8 |Children 8 |Comedy 9 |Musical 3 |Action 4 |Sci-Fi 3 |Fantasy 4 |Drama 10 |War 2 |Animation 3 |Horror 3 |Mystery 1 |Romance 4 |Thriller 3 |Crime 1 |IMAX 1 
+93:Adventure 56 |Animation 4 |Children 17 |Comedy 36 |Fantasy 19 |Action 46 |Thriller 22 |Romance 23 |Drama 26 |War 4 |IMAX 1 |Crime 8 |Sci-Fi 22 |Western 4 |Musical 1 |Horror 3 |Mystery 2 
+94:Adventure 16 |Children 6 |Fantasy 5 |Action 16 |Thriller 18 |Comedy 17 |Drama 19 |Romance 6 |Crime 9 |Mystery 2 |Sci-Fi 7 |War 4 |IMAX 2 |Western 3 |Animation 2 |Musical 2 |Horror 1 
+95:Comedy 54 |Romance 28 |Drama 70 |Adventure 44 |Fantasy 10 |Mystery 12 |Sci-Fi 56 |Thriller 44 |Children 5 |Documentary 2 |Action 56 |Crime 35 |Animation 5 |Film-Noir 3 |Horror 5 |War 4 |Musical 2 |IMAX 4 
+96:Adventure 22 |Animation 2 |Children 4 |Comedy 17 |Fantasy 5 |Drama 27 |Crime 14 |Mystery 7 |Thriller 24 |Action 33 |War 5 |IMAX 1 |Sci-Fi 12 |Romance 8 |Horror 3 |Musical 2 |Western 1 |Film-Noir 1 
+97:Action 22 |Romance 5 |Thriller 11 |Crime 6 |Horror 1 |Drama 11 |Adventure 14 |Sci-Fi 7 |War 4 |Comedy 9 |Animation 2 |Children 3 |Fantasy 2 |IMAX 1 
+98:Adventure 27 |Animation 17 |Children 17 |Comedy 31 |Fantasy 13 |Drama 31 |Romance 13 |War 3 |Musical 7 |IMAX 8 |Crime 6 |Horror 11 |Thriller 14 |Mystery 5 |Action 22 |Sci-Fi 20 
+99:Action 17 |Adventure 7 |Thriller 20 |Crime 13 |Drama 18 |Horror 2 |Mystery 2 |Comedy 18 |Romance 10 |IMAX 1 |War 2 |Western 3 |Sci-Fi 2 |Animation 1 |Children 1 |Musical 1 
+100:Comedy 82 |Romance 79 |Drama 71 |Crime 12 |Action 25 |Thriller 16 |Adventure 17 |War 6 |Western 5 |Fantasy 10 |Animation 2 |Children 6 |Musical 12 |Mystery 5 |Sci-Fi 6 |Horror 1 |IMAX 1 
+101:Comedy 18 |Drama 23 |Action 11 |Adventure 7 |Sci-Fi 7 |Thriller 11 |Romance 4 |Crime 7 |Horror 5 |Animation 3 |Musical 2 |Mystery 5 |Fantasy 2 |Children 2 |IMAX 1 
+102:Comedy 21 |Romance 14 |Action 22 |Crime 13 |Thriller 23 |Mystery 3 |Adventure 13 |Drama 18 |IMAX 2 |Children 4 |Sci-Fi 4 |War 3 |Western 5 |Horror 2 |Animation 2 |Musical 2 
+103:Adventure 96 |Animation 52 |Children 82 |Comedy 147 |Fantasy 62 |Crime 61 |Drama 168 |Musical 26 |Romance 51 |Mystery 22 |Thriller 58 |Action 74 |Horror 13 |War 12 |IMAX 22 |Sci-Fi 33 |Western 8 |Film-Noir 4 |Documentary 2 
+104:Adventure 72 |Children 55 |Fantasy 45 |Action 42 |Thriller 22 |Drama 63 |Comedy 164 |Romance 90 |Sci-Fi 25 |Crime 15 |War 7 |Animation 42 |Musical 40 |IMAX 14 |Horror 2 |Western 2 |Mystery 7 |Film-Noir 1 
+105:Action 163 |Crime 132 |Thriller 147 |Drama 361 |Mystery 70 |Sci-Fi 93 |War 44 |Romance 123 |Adventure 137 |Comedy 240 |Horror 30 |Western 7 |Musical 14 |Film-Noir 6 |Documentary 22 |Fantasy 86 |Animation 105 |Children 61 |IMAX 33 |(no genres listed) 3 
+106:Crime 2 |Drama 9 |Action 18 |Sci-Fi 6 |Thriller 6 |Adventure 25 |Comedy 6 |Fantasy 19 |Horror 1 |Children 5 |Animation 2 |IMAX 11 |Mystery 4 |Romance 1 
+107:Adventure 13 |Animation 1 |Children 3 |Comedy 13 |Fantasy 4 |Drama 17 |Romance 5 |Action 11 |War 3 |Crime 7 |Thriller 9 |IMAX 1 |Mystery 1 |Sci-Fi 5 |Horror 1 |Western 3 
+108:Drama 44 |Romance 36 |Comedy 28 |Action 7 |Adventure 10 |Sci-Fi 11 |Thriller 9 |Mystery 4 |Western 1 |Crime 5 |Children 3 |War 1 |Animation 2 |Musical 1 |Fantasy 2 |IMAX 1 
+109:Action 25 |Crime 20 |Thriller 36 |Comedy 45 |Drama 61 |Romance 24 |Mystery 5 |Sci-Fi 11 |Children 11 |War 6 |Adventure 16 |IMAX 2 |Western 6 |Documentary 1 |Horror 5 |Musical 6 |Film-Noir 1 |Fantasy 8 |Animation 6 
+110:Mystery 4 |Thriller 13 |Action 12 |Drama 29 |War 6 |Crime 13 |Comedy 18 |Romance 8 |Sci-Fi 2 |Adventure 5 |Children 1 |Horror 1 |Documentary 1 
+111:Comedy 361 |Crime 70 |Drama 107 |Romance 86 |Animation 44 |Children 47 |Musical 22 |Action 108 |Thriller 69 |War 5 |Adventure 88 |IMAX 17 |Fantasy 53 |Sci-Fi 29 |Mystery 25 |Documentary 19 |Horror 16 |Western 3 |(no genres listed) 3 
+112:Adventure 16 |Animation 4 |Children 3 |Comedy 8 |Fantasy 5 |Action 23 |Crime 11 |Thriller 15 |Drama 19 |Mystery 5 |Sci-Fi 15 |War 4 |IMAX 6 |Horror 2 |Romance 3 |Musical 1 |Western 1 
+113:Comedy 51 |Drama 78 |Romance 71 |Crime 14 |Thriller 24 |Action 5 |Adventure 5 |Sci-Fi 3 |Fantasy 7 |War 5 |Horror 7 |Mystery 16 |Children 8 |Musical 5 |Animation 3 |Film-Noir 2 
+114:Action 11 |Adventure 18 |Sci-Fi 8 |Crime 3 |Horror 2 |Thriller 5 |Comedy 10 |Fantasy 9 |Drama 6 |Romance 3 |Children 5 |Animation 4 |IMAX 6 |Musical 1 
+115:Comedy 43 |Crime 11 |Thriller 28 |Mystery 11 |Sci-Fi 16 |Action 34 |Drama 23 |War 6 |Adventure 29 |Horror 18 |Animation 13 |Children 13 |Musical 9 |IMAX 2 |Western 12 |Fantasy 11 |Romance 6 |Film-Noir 1 
+116:Comedy 25 |Romance 24 |Mystery 5 |Thriller 18 |Action 25 |Adventure 16 |Sci-Fi 10 |Drama 24 |War 5 |Crime 7 |Fantasy 6 |Children 4 |Western 1 |Musical 7 |Animation 3 |Horror 4 
+117:Adventure 31 |Children 25 |Fantasy 17 |Comedy 56 |Romance 40 |Action 42 |Crime 23 |Thriller 44 |Drama 71 |Mystery 6 |Sci-Fi 16 |War 9 |Animation 14 |Musical 13 |IMAX 3 |Horror 5 |Western 5 
+118:Comedy 5 |Crime 8 |Drama 14 |Thriller 6 |War 2 |Adventure 2 |Western 1 |Romance 1 |Action 3 |Sci-Fi 1 |Horror 1 |Mystery 2 
+119:Adventure 71 |Animation 32 |Children 26 |Comedy 70 |Fantasy 27 |Action 97 |Thriller 66 |Crime 48 |Sci-Fi 37 |Drama 88 |Romance 18 |War 12 |Musical 1 |IMAX 22 |Mystery 11 |Horror 6 |Western 4 |Documentary 4 |Film-Noir 1 
+120:Comedy 8 |Horror 1 |Mystery 2 |Sci-Fi 3 |Thriller 5 |Drama 6 |Romance 5 |Action 6 |Adventure 8 |Crime 2 |Animation 2 |Children 3 |Fantasy 2 |Musical 2 
+121:Adventure 8 |Animation 2 |Children 2 |Comedy 16 |Fantasy 3 |Action 15 |Crime 10 |Thriller 20 |Drama 24 |Romance 16 |Horror 2 |Mystery 2 |War 5 |IMAX 2 |Western 3 |Documentary 1 |Sci-Fi 3 |Musical 1 
+122:Adventure 82 |Children 19 |Fantasy 35 |Comedy 117 |Mystery 27 |Sci-Fi 80 |Thriller 88 |Crime 59 |Action 102 |Horror 38 |Drama 111 |Romance 25 |War 11 |Animation 23 |Musical 4 |Western 8 |Film-Noir 1 |Documentary 2 |IMAX 21 
+123:Mystery 10 |Thriller 31 |Action 24 |Adventure 14 |Sci-Fi 16 |Crime 19 |Drama 34 |Comedy 5 |Horror 1 |Romance 3 |Animation 3 |Children 2 |Fantasy 5 |IMAX 6 |War 3 |Western 1 
+124:Adventure 12 |Animation 5 |Children 5 |Comedy 19 |Fantasy 2 |Crime 11 |Mystery 5 |Thriller 12 |Action 8 |Drama 23 |War 2 |Sci-Fi 7 |Romance 7 |Horror 1 |Film-Noir 1 
+125:Adventure 67 |Children 19 |Fantasy 40 |Crime 48 |Drama 145 |Romance 54 |Action 101 |War 10 |Sci-Fi 81 |Comedy 136 |Thriller 82 |Horror 24 |Mystery 24 |Film-Noir 2 |Animation 27 |Musical 5 |IMAX 19 |Western 4 |(no genres listed) 1 
+126:Children 4 |Drama 13 |Mystery 1 |Thriller 14 |Action 13 |War 3 |Adventure 9 |IMAX 3 |Comedy 7 |Crime 8 |Sci-Fi 4 |Romance 5 |Animation 3 |Musical 3 |Fantasy 2 |Western 1 |Horror 1 
+127:Comedy 6 |Drama 8 |Mystery 3 |Romance 2 |Thriller 3 |Crime 1 |Film-Noir 1 |Musical 1 |Action 1 |Western 1 |War 1 
+128:Action 10 |Drama 11 |War 1 |Adventure 8 |Sci-Fi 3 |Crime 7 |Horror 3 |Thriller 10 |Comedy 10 |Romance 10 |Mystery 9 |Musical 3 |Film-Noir 3 |Fantasy 2 
+129:Mystery 9 |Thriller 35 |Action 75 |Drama 35 |War 8 |Adventure 67 |Sci-Fi 41 |Crime 14 |Animation 22 |Children 18 |Comedy 38 |Romance 24 |Horror 6 |Fantasy 29 |Musical 9 |IMAX 8 |Film-Noir 1 
+130:Adventure 10 |Animation 1 |Children 2 |Comedy 9 |Fantasy 3 |Action 10 |Drama 12 |War 2 |IMAX 1 |Crime 6 |Thriller 9 |Sci-Fi 4 |Horror 1 |Romance 2 |Western 1 
+131:Drama 35 |Mystery 9 |Thriller 22 |Crime 21 |Action 14 |Comedy 10 |Romance 6 |War 5 |Sci-Fi 12 |Horror 3 |Adventure 13 |Fantasy 5 |Film-Noir 1 |Documentary 1 |IMAX 4 |Animation 1 
+132:Drama 138 |Romance 87 |Mystery 25 |Sci-Fi 27 |Thriller 55 |Comedy 95 |Animation 22 |Children 30 |Musical 25 |Crime 47 |Action 36 |Adventure 41 |Fantasy 43 |War 6 |IMAX 10 |Horror 15 |Film-Noir 4 |Western 1 |Documentary 1 
+133:Mystery 3 |Sci-Fi 4 |Thriller 15 |Crime 8 |Action 10 |Drama 11 |War 3 |Adventure 5 |IMAX 1 |Comedy 8 |Romance 4 |Fantasy 1 |Animation 1 |Children 1 |Musical 1 |Horror 1 
+134:Adventure 11 |Animation 5 |Children 5 |Comedy 8 |Fantasy 3 |Mystery 2 |Thriller 11 |Drama 14 |Musical 4 |Romance 5 |Action 16 |War 2 |Crime 8 |Sci-Fi 6 |Western 3 |Horror 3 |IMAX 2 
+135:Adventure 56 |Animation 6 |Children 16 |Comedy 106 |Fantasy 39 |Crime 43 |Thriller 80 |Mystery 23 |Sci-Fi 46 |Action 84 |Drama 77 |War 7 |Romance 30 |Musical 9 |Horror 21 |Western 3 |Documentary 2 |Film-Noir 1 
+136:Action 31 |Adventure 18 |Thriller 26 |Romance 16 |Crime 16 |Drama 32 |Comedy 35 |Mystery 5 |Horror 7 |War 6 |Children 7 |Sci-Fi 11 |Fantasy 8 |Western 4 |Animation 4 |Musical 4 |IMAX 2 
+137:Adventure 33 |Animation 5 |Children 8 |Comedy 34 |Fantasy 14 |Action 33 |Drama 75 |War 19 |Crime 18 |Thriller 28 |IMAX 2 |Documentary 6 |Sci-Fi 27 |Romance 27 |Musical 5 |Western 3 |Horror 13 |Mystery 11 |Film-Noir 5 
+138:Drama 7 |Romance 4 |Animation 3 |Children 3 |Action 7 |Adventure 5 |Sci-Fi 2 |Thriller 1 |Comedy 7 |Crime 1 |Fantasy 2 |IMAX 1 
+139:Action 27 |Adventure 28 |Sci-Fi 11 |Thriller 10 |War 5 |Drama 14 |Comedy 10 |Crime 6 |Animation 4 |Children 2 |Fantasy 14 |Mystery 3 |IMAX 12 |Musical 2 |Romance 3 |Horror 1 |Western 1 
+140:Adventure 107 |Animation 12 |Children 44 |Comedy 127 |Fantasy 28 |Action 161 |Crime 117 |Thriller 169 |Drama 330 |Romance 108 |Horror 6 |Mystery 41 |War 63 |IMAX 5 |Western 39 |Film-Noir 5 |Sci-Fi 34 |Documentary 3 |Musical 11 
+141:Adventure 55 |Animation 22 |Children 22 |Comedy 85 |Fantasy 27 |Mystery 6 |Thriller 26 |Musical 7 |Action 47 |Drama 50 |War 5 |IMAX 17 |Sci-Fi 28 |Crime 24 |Romance 23 |Western 2 |Horror 5 
+142:Children 4 |Drama 17 |Crime 9 |Mystery 2 |Thriller 19 |Action 13 |Adventure 9 |IMAX 3 |War 3 |Comedy 9 |Romance 6 |Sci-Fi 3 |Animation 3 |Musical 3 |Fantasy 2 |Western 1 |Horror 1 
+143:Comedy 43 |Drama 11 |Romance 29 |War 2 |Action 3 |Adventure 10 |Sci-Fi 2 |Animation 9 |Children 8 |Fantasy 7 |Documentary 1 |Crime 1 |IMAX 3 |Musical 2 |Thriller 1 
+144:Adventure 34 |Animation 13 |Children 17 |Comedy 50 |Fantasy 18 |Action 30 |Thriller 27 |Drama 51 |Romance 39 |Mystery 8 |Sci-Fi 9 |Musical 8 |War 6 |IMAX 3 |Crime 19 |Western 3 |Horror 6 |Documentary 2 
+145:Adventure 10 |Animation 3 |Children 3 |Comedy 7 |Fantasy 2 |Crime 7 |Mystery 1 |Thriller 9 |Drama 9 |IMAX 2 |Action 7 |War 1 |Sci-Fi 3 |Romance 3 |Musical 2 |Western 1 
+146:Mystery 4 |Sci-Fi 2 |Thriller 6 |Children 5 |Comedy 9 |Fantasy 5 |Drama 11 |Adventure 2 |Crime 5 |Romance 9 |Animation 2 |Horror 2 |Action 2 |War 1 |IMAX 1 
+147:Comedy 8 |Action 4 |Romance 3 |Western 1 |Drama 3 |Thriller 2 |War 1 |Adventure 2 |Crime 3 |Animation 1 |Children 1 |Fantasy 1 |Musical 1 |Sci-Fi 2 |Horror 1 
+148:Comedy 14 |Drama 13 |Romance 13 |War 2 |Action 16 |Adventure 30 |Fantasy 22 |Musical 5 |Animation 18 |Children 13 |IMAX 15 |Thriller 5 |Sci-Fi 9 |Mystery 2 |Crime 1 
+149:Mystery 1 |Sci-Fi 31 |Thriller 12 |Action 21 |Horror 6 |Adventure 14 |Animation 2 |Comedy 4 |War 1 |Fantasy 1 |Romance 1 |Children 1 |Drama 4 |Crime 1 
+150:Comedy 9 |Romance 5 |Action 10 |Crime 4 |Thriller 15 |Drama 10 |Mystery 3 |Sci-Fi 3 |Adventure 7 |Fantasy 2 |Children 1 |Musical 1 
+151:Adventure 13 |Animation 5 |Children 13 |Comedy 37 |Fantasy 12 |Romance 8 |Action 9 |Horror 6 |Drama 12 |Thriller 14 |Musical 4 |Mystery 1 |Sci-Fi 4 |Crime 2 
+152:Mystery 8 |Thriller 24 |Crime 21 |Drama 40 |Action 15 |Adventure 9 |Sci-Fi 7 |Comedy 15 |War 6 |Horror 1 |Romance 7 |Fantasy 2 |Documentary 4 |IMAX 3 |Animation 1 |Children 1 |Musical 1 |Film-Noir 1 
+153:Comedy 28 |Crime 4 |Drama 64 |Thriller 7 |Romance 27 |War 2 |Adventure 6 |Animation 2 |Children 3 |Musical 4 |IMAX 2 |Horror 1 |Sci-Fi 5 |Fantasy 5 |Mystery 2 |Action 2 
+154:Comedy 7 |Drama 5 |Romance 3 |War 2 |Children 8 |Sci-Fi 15 |Action 19 |Adventure 19 |Fantasy 8 |Animation 7 |Mystery 2 |IMAX 13 |Thriller 2 |Crime 3 
+155:Adventure 20 |Animation 7 |Children 9 |Comedy 25 |Fantasy 5 |Action 20 |Crime 7 |Sci-Fi 10 |Western 1 |Musical 1 |Thriller 7 |Horror 1 |Drama 5 |Romance 4 |War 2 
+156:Adventure 45 |Animation 10 |Children 19 |Comedy 185 |Fantasy 31 |Drama 203 |Romance 94 |Crime 65 |Thriller 55 |Mystery 34 |IMAX 1 |Action 42 |War 28 |Musical 20 |Sci-Fi 19 |Western 6 |Horror 5 |Film-Noir 12 |Documentary 3 
+157:Drama 9 |War 1 |Comedy 9 |Children 3 |Fantasy 2 |Romance 1 |Adventure 4 |Sci-Fi 1 |Action 3 |Thriller 3 |Mystery 2 |Crime 3 |Animation 1 
+158:Drama 6 |Action 6 |Comedy 6 |Sci-Fi 4 |Fantasy 2 |Horror 5 |Thriller 9 |Romance 2 |Adventure 3 |Crime 4 |Mystery 1 |Documentary 1 
+159:Adventure 17 |Animation 12 |Children 9 |Comedy 39 |Fantasy 12 |Drama 38 |Action 8 |War 3 |IMAX 3 |Romance 36 |Crime 2 |Thriller 6 |Sci-Fi 3 |Musical 4 |Mystery 1 
+160:Adventure 44 |Animation 20 |Children 29 |Comedy 64 |Fantasy 32 |Mystery 24 |Sci-Fi 54 |Thriller 69 |Drama 100 |Action 68 |Crime 47 |Romance 29 |War 14 |IMAX 3 |Horror 22 |Musical 17 |Film-Noir 2 |Western 1 
+161:Adventure 14 |Animation 13 |Children 15 |Comedy 21 |Fantasy 8 |Drama 9 |Musical 7 |Romance 10 |Crime 3 |Action 4 |Thriller 3 |Sci-Fi 5 |Documentary 2 |Horror 1 |Mystery 1 
+162:Comedy 10 |Drama 35 |Romance 14 |Crime 9 |Mystery 1 |Thriller 9 |Action 5 |Adventure 3 |IMAX 1 |War 3 |Western 2 |Sci-Fi 1 |Fantasy 1 |Animation 1 |Children 1 |Musical 1 
+163:Comedy 11 |Horror 2 |Mystery 4 |Thriller 6 |Action 3 |Drama 7 |Children 1 |Crime 1 |Film-Noir 1 |Romance 6 |Sci-Fi 1 
+164:Action 32 |Drama 9 |War 2 |Adventure 18 |Sci-Fi 16 |Thriller 13 |Crime 3 |Children 2 |Romance 4 |Horror 2 |Western 1 |Comedy 5 |Fantasy 2 
+165:Action 28 |Drama 31 |War 2 |Romance 15 |Adventure 16 |Comedy 21 |Western 3 |Thriller 19 |Sci-Fi 9 |Crime 17 |Mystery 3 |Fantasy 3 |Horror 2 |Animation 2 |Children 2 |Musical 1 
+166:Adventure 50 |Animation 15 |Children 15 |Comedy 50 |Fantasy 28 |Action 79 |Crime 50 |Thriller 64 |Drama 81 |Romance 28 |Mystery 19 |Sci-Fi 33 |War 11 |Musical 3 |Horror 12 |Film-Noir 3 |Western 3 |IMAX 7 |Documentary 2 
+167:Adventure 51 |Animation 25 |Children 28 |Comedy 80 |Fantasy 39 |Action 39 |Drama 31 |War 4 |IMAX 7 |Romance 18 |Sci-Fi 28 |Crime 23 |Thriller 21 |Musical 13 |Horror 6 |Film-Noir 1 |Mystery 5 |Western 1 
+168:Crime 25 |Drama 63 |Thriller 24 |Fantasy 5 |Romance 14 |Comedy 23 |War 13 |Animation 3 |Children 5 |Musical 2 |Mystery 17 |Action 15 |Adventure 8 |Film-Noir 6 |Western 5 |Horror 2 |Sci-Fi 1 |Documentary 2 
+169:Adventure 53 |Animation 24 |Children 46 |Comedy 143 |Fantasy 42 |Romance 79 |Drama 101 |Musical 50 |War 10 |IMAX 6 |Action 41 |Crime 23 |Thriller 29 |Sci-Fi 23 |Horror 6 |Mystery 6 |Western 3 |Documentary 3 
+170:Comedy 14 |Action 18 |Adventure 12 |Thriller 18 |Children 8 |Drama 23 |Animation 5 |Musical 5 |Romance 12 |War 4 |IMAX 3 |Crime 6 |Sci-Fi 3 |Western 4 |Mystery 1 |Fantasy 3 |Horror 1 
+171:Adventure 22 |Animation 8 |Children 11 |Comedy 31 |Fantasy 15 |Drama 34 |Romance 8 |Mystery 8 |Sci-Fi 10 |Thriller 19 |Crime 18 |Action 21 |Western 5 |Musical 8 |Horror 3 |War 2 
+172:Drama 9 |War 3 |Adventure 10 |Western 1 |Crime 3 |Horror 6 |Thriller 5 |Animation 1 |Children 2 |Fantasy 5 |Musical 1 |Comedy 9 |Action 10 |Sci-Fi 4 |Mystery 1 |Romance 1 
+173:Action 8 |Adventure 7 |Thriller 5 |Drama 10 |Romance 7 |War 3 |Comedy 11 |IMAX 2 |Crime 2 |Horror 1 |Sci-Fi 4 |Children 4 |Fantasy 3 |Animation 2 |Musical 2 
+174:Action 22 |Adventure 19 |Thriller 22 |Comedy 27 |Drama 23 |Romance 14 |Mystery 5 |Sci-Fi 10 |Children 5 |Crime 8 |IMAX 2 |War 3 |Horror 1 |Fantasy 5 |Western 4 |Animation 2 |Musical 2 
+175:Children 2 |Drama 14 |Comedy 8 |Musical 3 |Romance 9 
+176:Action 18 |Adventure 14 |Thriller 16 |Comedy 11 |Romance 4 |Mystery 1 |Drama 12 |War 2 |IMAX 1 |Crime 7 |Sci-Fi 5 |Western 4 |Fantasy 1 |Animation 1 |Children 1 |Musical 1 |Horror 1 
+177:Adventure 150 |Animation 81 |Children 104 |Comedy 284 |Fantasy 114 |Drama 328 |Romance 192 |Crime 102 |Mystery 51 |Thriller 143 |Musical 64 |IMAX 45 |Action 144 |War 27 |Documentary 3 |Horror 39 |Sci-Fi 68 |Film-Noir 6 |Western 9 
+178:Adventure 16 |Animation 2 |Children 3 |Comedy 20 |Fantasy 6 |Action 21 |Thriller 26 |Drama 38 |Romance 18 |Mystery 6 |Crime 15 |War 8 |Sci-Fi 10 |Western 1 |Horror 3 |Documentary 2 |IMAX 1 
+179:Adventure 18 |Animation 2 |Children 4 |Comedy 30 |Fantasy 4 |Romance 9 |Action 26 |Mystery 4 |Sci-Fi 9 |Thriller 29 |Drama 22 |War 3 |Crime 14 |IMAX 2 |Horror 3 |Musical 1 |Western 1 
+180:Action 10 |Adventure 9 |Sci-Fi 8 |Drama 7 |Thriller 5 |Comedy 7 |Fantasy 6 |Romance 2 |Crime 2 |War 1 |Horror 1 |Film-Noir 1 |Animation 1 |Children 1 
+181:Comedy 36 |Action 22 |Crime 14 |Thriller 33 |Romance 20 |Drama 40 |Horror 3 |Mystery 4 |Sci-Fi 3 |Children 8 |Adventure 14 |War 4 |Fantasy 8 |Western 3 |Musical 6 |Animation 4 |IMAX 1 
+182:Adventure 120 |Animation 24 |Children 20 |Comedy 259 |Fantasy 62 |Action 173 |Crime 164 |Thriller 206 |Drama 443 |Romance 137 |Mystery 72 |Sci-Fi 99 |War 54 |Horror 37 |Documentary 12 |Western 9 |Musical 17 |Film-Noir 11 |IMAX 3 
+183:Action 42 |Drama 18 |War 8 |Romance 3 |Thriller 20 |Adventure 18 |Comedy 7 |Sci-Fi 11 |Crime 9 |Horror 4 |Western 4 |Musical 1 |Children 1 |Mystery 1 |Fantasy 1 
+184:Crime 11 |Mystery 12 |Thriller 25 |Action 48 |Adventure 29 |Sci-Fi 35 |Children 4 |Fantasy 15 |Drama 39 |War 6 |Animation 23 |Comedy 21 |IMAX 11 |Romance 5 |Documentary 8 |Horror 3 |(no genres listed) 1 
+185:Adventure 12 |Animation 12 |Children 14 |Comedy 17 |Fantasy 7 |Drama 20 |Musical 12 |IMAX 2 |Romance 19 |Thriller 6 |Action 3 |Crime 3 |War 1 |Mystery 3 |Sci-Fi 1 
+186:Adventure 95 |Animation 16 |Children 36 |Comedy 72 |Fantasy 44 |Action 84 |Thriller 59 |Crime 17 |Horror 20 |Sci-Fi 87 |Drama 67 |Musical 17 |IMAX 3 |Romance 41 |Mystery 15 |War 7 |Western 4 |Film-Noir 3 |Documentary 1 
+187:Crime 59 |Drama 128 |Romance 21 |Adventure 36 |Fantasy 31 |Mystery 26 |Sci-Fi 31 |Thriller 71 |Action 52 |Comedy 54 |Horror 32 |War 13 |Animation 22 |Children 7 |Musical 4 |Film-Noir 8 |Western 5 |Documentary 17 |IMAX 1 
+188:Comedy 22 |Romance 16 |Drama 22 |War 4 |Animation 2 |Children 4 |Fantasy 4 |Musical 14 |Mystery 9 |Thriller 9 |Film-Noir 3 |Adventure 1 |Crime 1 |Action 2 |Western 1 |Sci-Fi 1 
+189:Crime 9 |Drama 11 |Comedy 2 |Romance 2 |War 2 |Horror 2 |Thriller 6 |Fantasy 5 |Action 9 |Sci-Fi 2 |Mystery 2 |Adventure 7 |IMAX 5 |Animation 2 |Children 2 
+190:Crime 17 |Drama 36 |War 4 |Romance 17 |Comedy 23 |Action 14 |Sci-Fi 9 |Thriller 16 |Adventure 18 |Animation 5 |Children 6 |Fantasy 12 |Film-Noir 1 |Mystery 11 |IMAX 6 |Musical 1 |Documentary 2 
+191:Adventure 7 |Animation 3 |Children 4 |Comedy 25 |Fantasy 4 |Action 9 |Crime 12 |Thriller 17 |Drama 46 |Romance 18 |Mystery 4 |Sci-Fi 2 |Documentary 4 |War 3 |Film-Noir 1 
+192:Action 11 |Adventure 8 |Thriller 13 |Mystery 2 |Drama 12 |War 3 |IMAX 1 |Sci-Fi 4 |Crime 5 |Romance 3 |Western 3 |Comedy 5 |Fantasy 1 |Horror 1 
+193:Action 7 |Adventure 11 |Sci-Fi 6 |Comedy 7 |Crime 8 |Drama 21 |Thriller 9 |Romance 6 |War 2 |Horror 2 |Mystery 2 |Fantasy 5 |Animation 2 |IMAX 1 
+194:Action 7 |Romance 6 |Western 1 |Drama 7 |Thriller 4 |Comedy 10 |Adventure 3 |Musical 1 |War 3 |Crime 3 |Film-Noir 1 |Mystery 1 |Sci-Fi 2 |Horror 1 
+195:Action 41 |Crime 36 |Thriller 49 |Adventure 24 |Drama 99 |Romance 23 |Mystery 14 |Sci-Fi 16 |Comedy 46 |Horror 9 |IMAX 1 |War 13 |Western 3 |Children 4 |Fantasy 6 |Film-Noir 2 |Animation 2 |Musical 1 
+196:Drama 15 |Comedy 2 |Action 13 |War 3 |Adventure 11 |IMAX 4 |Animation 2 |Children 2 |Musical 1 |Thriller 9 |Crime 5 |Horror 2 |Sci-Fi 6 |Mystery 3 |Fantasy 1 
+197:Crime 10 |Mystery 2 |Thriller 12 |Comedy 10 |Drama 15 |Action 13 |Romance 6 |War 2 |Sci-Fi 8 |Adventure 3 |Western 2 |Horror 1 
+198:Drama 110 |Romance 43 |Sci-Fi 48 |Mystery 22 |Thriller 48 |Children 5 |Crime 33 |Comedy 52 |Action 42 |War 12 |Adventure 31 |Fantasy 9 |Western 3 |Animation 4 |Musical 1 |IMAX 2 |Horror 10 |Film-Noir 3 
+199:Action 65 |Crime 77 |Thriller 72 |Comedy 102 |Romance 64 |Drama 174 |Mystery 25 |Adventure 36 |IMAX 2 |War 39 |Sci-Fi 20 |Horror 9 |Film-Noir 4 |Fantasy 8 |Documentary 5 |Western 7 |Children 1 |Musical 1 
+200:Adventure 84 |Animation 11 |Children 22 |Comedy 164 |Fantasy 38 |Action 97 |Thriller 63 |Romance 88 |Mystery 13 |Drama 108 |War 11 |IMAX 11 |Crime 45 |Sci-Fi 40 |Musical 16 |Western 3 |Film-Noir 3 |Horror 8 |Documentary 1 
+201:Adventure 30 |Animation 5 |Children 9 |Comedy 56 |Fantasy 14 |Drama 33 |Romance 32 |Crime 10 |Sci-Fi 33 |Mystery 5 |Thriller 23 |IMAX 1 |Action 34 |War 3 |Musical 3 |Horror 6 |Western 2 
+202:Adventure 90 |Animation 12 |Children 16 |Comedy 105 |Fantasy 32 |Action 125 |Crime 57 |Thriller 103 |Drama 222 |Romance 79 |Mystery 35 |Sci-Fi 61 |War 30 |IMAX 2 |Musical 9 |Documentary 3 |Western 16 |Film-Noir 6 |Horror 10 
+203:Drama 16 |Action 18 |War 2 |Comedy 10 |Crime 10 |Thriller 15 |Adventure 17 |Western 1 |Sci-Fi 8 |Fantasy 11 |Romance 2 |Animation 3 |Children 4 |Mystery 3 |IMAX 4 |Horror 1 
+204:Mystery 11 |Thriller 29 |Action 16 |Crime 22 |Drama 38 |Comedy 25 |War 7 |Horror 7 |Adventure 11 |Fantasy 11 |Sci-Fi 10 |Romance 6 |Animation 13 |Children 10 |Film-Noir 3 |IMAX 5 |Western 1 
+205:Action 12 |Adventure 14 |Sci-Fi 3 |Comedy 4 |Drama 10 |Romance 2 |War 4 |Children 3 |Fantasy 10 |Musical 1 |Crime 2 |Thriller 5 |IMAX 8 |Mystery 3 |Documentary 1 |Animation 1 |Western 1 
+206:Adventure 8 |Animation 3 |Children 4 |Comedy 8 |Fantasy 3 |Romance 8 |Drama 12 |Mystery 3 |Sci-Fi 3 |Thriller 9 |Crime 2 |Action 7 |Musical 3 |Western 1 
+207:Drama 5 |Thriller 6 |Western 1 |Comedy 3 |Horror 3 |Adventure 5 |Sci-Fi 2 |Action 4 |Fantasy 2 |Crime 1 |Romance 1 
+208:Action 14 |Drama 8 |War 3 |Thriller 10 |Sci-Fi 5 |Adventure 6 |Comedy 3 |Romance 2 |Crime 3 |Mystery 3 |Fantasy 1 |Horror 2 
+209:Crime 9 |Drama 21 |Comedy 5 |Romance 4 |War 3 |Horror 2 |Thriller 11 |Action 15 |Adventure 11 |Sci-Fi 5 |Mystery 6 |Fantasy 5 |IMAX 5 |Animation 1 |Children 1 
+210:Action 63 |Adventure 87 |Comedy 26 |Crime 5 |Sci-Fi 76 |Fantasy 36 |Thriller 18 |Drama 28 |Romance 8 |Animation 22 |Children 26 |IMAX 25 |Horror 2 |Mystery 6 |War 2 |(no genres listed) 1 
+211:Crime 29 |Mystery 11 |Thriller 35 |Action 47 |Adventure 31 |Sci-Fi 22 |Comedy 20 |Drama 33 |Romance 7 |War 7 |Animation 5 |Children 6 |Fantasy 8 |Musical 4 |Horror 2 |Film-Noir 1 |IMAX 10 
+212:Action 98 |Adventure 83 |Sci-Fi 45 |Crime 44 |Drama 87 |Thriller 49 |Comedy 79 |Romance 21 |War 9 |Animation 35 |Children 29 |Musical 6 |IMAX 25 |Horror 11 |Fantasy 42 |Mystery 16 |Film-Noir 1 |Western 3 |(no genres listed) 1 
+213:Adventure 28 |Animation 7 |Children 10 |Comedy 21 |Fantasy 16 |Action 34 |Sci-Fi 16 |Crime 7 |Drama 28 |Mystery 7 |Romance 10 |Thriller 31 |Horror 12 |War 4 |Musical 1 |IMAX 7 
+214:Adventure 5 |Animation 2 |Children 3 |Comedy 6 |Fantasy 4 |Drama 8 |Romance 5 |Action 4 |Sci-Fi 3 |Thriller 5 |Crime 1 |Mystery 2 |Musical 2 
+215:Crime 20 |Mystery 9 |Thriller 16 |Comedy 37 |Romance 25 |Action 20 |Adventure 15 |Sci-Fi 7 |Drama 51 |War 8 |Horror 2 |Fantasy 8 |Film-Noir 1 |Children 1 |Documentary 1 |IMAX 1 
+216:Adventure 16 |Animation 15 |Children 15 |Comedy 96 |Fantasy 15 |Crime 19 |Thriller 18 |Drama 52 |Romance 36 |Musical 20 |IMAX 2 |Film-Noir 9 |Mystery 8 |Sci-Fi 6 |Action 14 |War 5 |Western 3 |Documentary 1 |Horror 2 
+217:Adventure 126 |Animation 22 |Children 52 |Comedy 171 |Fantasy 43 |Action 163 |Thriller 123 |Horror 17 |Crime 62 |Drama 106 |Mystery 25 |Sci-Fi 72 |Film-Noir 3 |Romance 39 |Western 7 |Musical 18 |War 16 
+218:Comedy 9 |Drama 5 |War 3 |Mystery 2 |Romance 3 |Thriller 3 |Action 5 |Adventure 6 |Crime 3 |Film-Noir 1 |Musical 2 |Horror 2 |Sci-Fi 3 |Fantasy 1 |IMAX 1 
+219:Adventure 101 |Animation 32 |Children 23 |Comedy 134 |Fantasy 39 |Action 159 |Crime 89 |Thriller 143 |Mystery 46 |Sci-Fi 74 |Drama 117 |IMAX 12 |Romance 40 |Horror 19 |Western 4 |Musical 8 |Film-Noir 8 |War 10 |Documentary 3 
+220:Adventure 75 |Animation 24 |Children 25 |Comedy 68 |Fantasy 21 |Action 85 |Crime 33 |Thriller 57 |Mystery 9 |Sci-Fi 49 |Drama 52 |IMAX 18 |Western 5 |Romance 20 |War 6 |Musical 8 |Horror 3 |Documentary 1 
+221:Adventure 36 |Children 6 |Fantasy 18 |Drama 191 |Mystery 40 |Sci-Fi 22 |Thriller 62 |Crime 79 |Comedy 99 |Romance 53 |Documentary 12 |War 27 |Action 44 |Animation 4 |Musical 5 |Western 17 |Horror 14 |Film-Noir 18 
+222:Adventure 24 |Children 4 |Fantasy 7 |Comedy 74 |Mystery 12 |Sci-Fi 21 |Thriller 39 |Crime 52 |Action 56 |Drama 85 |War 11 |Romance 28 |Western 4 |Musical 3 |Film-Noir 2 |Horror 3 |Animation 4 |IMAX 8 |Documentary 1 
+223:Adventure 23 |Animation 8 |Children 9 |Comedy 21 |Fantasy 13 |Mystery 7 |Thriller 21 |Action 25 |Drama 24 |War 2 |Sci-Fi 13 |Crime 10 |Western 1 |Musical 3 |Romance 15 |IMAX 7 |Horror 1 |Documentary 1 |Film-Noir 1 
+224:Comedy 33 |Romance 26 |Drama 19 |War 3 |Action 4 |Thriller 3 |Crime 3 |Horror 1 |Children 3 |Fantasy 8 |Adventure 4 |Sci-Fi 2 |Animation 1 |Mystery 1 
+225:Comedy 47 |Adventure 12 |Action 10 |Romance 14 |Thriller 12 |Crime 6 |Drama 13 |Fantasy 8 |Animation 2 |Children 2 |Musical 2 |Horror 20 |Mystery 6 |Sci-Fi 8 
+226:Adventure 97 |Animation 32 |Children 58 |Comedy 229 |Fantasy 65 |Romance 64 |Action 85 |Thriller 70 |Crime 67 |Drama 139 |Mystery 31 |Sci-Fi 53 |Musical 28 |IMAX 12 |War 8 |Western 7 |Horror 21 |Documentary 6 
+227:Drama 60 |Romance 14 |Mystery 9 |Sci-Fi 20 |Thriller 30 |Action 29 |War 11 |Adventure 20 |IMAX 9 |Crime 23 |Comedy 16 |Horror 1 |Children 3 |Fantasy 6 |Musical 2 |Animation 4 |Documentary 4 |Film-Noir 1 |Western 1 
+228:Crime 4 |Mystery 2 |Thriller 12 |Action 14 |Adventure 7 |Sci-Fi 11 |Drama 6 |Animation 2 |Horror 5 |Comedy 1 |Fantasy 1 |War 1 |Children 1 |Romance 1 
+229:Adventure 13 |Animation 2 |Children 5 |Comedy 28 |Fantasy 6 |Action 20 |Thriller 22 |Crime 14 |Drama 28 |War 3 |IMAX 2 |Romance 13 |Horror 2 |Sci-Fi 5 |Musical 1 |Western 1 |Mystery 1 
+230:Adventure 35 |Children 11 |Fantasy 16 |Comedy 30 |Romance 12 |Mystery 5 |Thriller 31 |Action 42 |Crime 11 |Drama 21 |Horror 11 |Animation 8 |Musical 4 |IMAX 7 |Sci-Fi 22 |War 1 
+231:Action 11 |Adventure 7 |Sci-Fi 9 |Comedy 3 |Crime 7 |Drama 6 |Thriller 6 |Horror 3 |Romance 3 |Fantasy 1 |IMAX 2 
+232:Adventure 144 |Animation 44 |Children 72 |Comedy 274 |Fantasy 81 |Action 216 |Thriller 194 |Romance 125 |Mystery 48 |Drama 279 |War 31 |Crime 112 |IMAX 30 |Sci-Fi 90 |Western 6 |Musical 33 |Horror 50 |Documentary 14 |Film-Noir 1 
+233:Adventure 29 |Animation 10 |Children 10 |Comedy 33 |Fantasy 17 |Mystery 13 |Thriller 33 |Crime 37 |Action 34 |Drama 74 |War 9 |Romance 16 |Musical 3 |IMAX 9 |Horror 4 |Sci-Fi 16 |Film-Noir 1 |Western 1 |Documentary 1 
+234:Adventure 86 |Animation 35 |Children 67 |Comedy 66 |Fantasy 37 |Drama 42 |Sci-Fi 38 |Action 74 |Crime 21 |Musical 20 |Romance 18 |Thriller 26 |IMAX 1 |Mystery 8 |Western 7 |Horror 9 |War 3 
+235:Comedy 22 |Drama 29 |Romance 18 |Crime 8 |Thriller 18 |Mystery 3 |Sci-Fi 5 |Children 9 |Animation 6 |Musical 6 |Action 14 |War 4 |Adventure 12 |IMAX 3 |Documentary 1 |Fantasy 5 |Western 1 |Horror 1 
+236:Horror 8 |Sci-Fi 2 |Comedy 14 |Fantasy 3 |Drama 5 |Thriller 6 |Mystery 3 |Action 3 |Romance 3 |Crime 3 |Musical 1 |Adventure 2 
+237:Mystery 7 |Sci-Fi 8 |Thriller 19 |Action 15 |Crime 13 |Drama 23 |Adventure 5 |Comedy 11 |Romance 6 |Horror 1 |Fantasy 2 |Animation 1 |Children 1 |War 3 |IMAX 2 
+238:Action 17 |Romance 4 |Western 4 |Crime 16 |Horror 2 |Thriller 17 |Drama 20 |Mystery 4 |War 6 |Adventure 3 |Comedy 6 |Film-Noir 1 
+239:Adventure 80 |Animation 15 |Children 17 |Comedy 78 |Fantasy 34 |Action 120 |Crime 72 |Thriller 96 |Drama 117 |Romance 37 |Mystery 23 |Sci-Fi 60 |War 16 |Western 6 |Musical 4 |IMAX 17 |Horror 6 |Film-Noir 2 |Documentary 4 
+240:Adventure 38 |Animation 10 |Children 29 |Comedy 54 |Fantasy 20 |Romance 23 |Action 44 |Thriller 28 |Crime 11 |Drama 39 |Musical 8 |War 5 |IMAX 3 |Mystery 3 |Sci-Fi 21 |Horror 6 |Western 5 
+241:Mystery 9 |Thriller 21 |Crime 13 |Drama 64 |Romance 20 |Comedy 18 |War 6 |Horror 2 |Sci-Fi 10 |Fantasy 4 |Action 10 |Musical 4 |Adventure 7 |IMAX 3 |Animation 4 |Western 1 |Children 1 
+242:Comedy 11 |Crime 8 |Thriller 16 |Mystery 2 |Sci-Fi 5 |Romance 4 |Drama 16 |Adventure 10 |IMAX 1 |War 2 |Action 9 |Horror 2 |Western 3 |Fantasy 2 |Children 2 |Animation 1 |Musical 1 
+243:Action 23 |Adventure 11 |Thriller 15 |Crime 9 |Drama 8 |Fantasy 5 |Animation 3 |Children 6 |Musical 3 |Romance 6 |Comedy 13 |War 4 |Sci-Fi 4 |IMAX 1 |Mystery 1 
+244:Action 42 |Crime 12 |Thriller 31 |Adventure 23 |Drama 34 |War 13 |Comedy 17 |Romance 12 |Western 3 |Mystery 3 |Sci-Fi 15 |Horror 5 |Fantasy 6 |Children 1 |Film-Noir 1 
+245:Documentary 5 |Animation 3 |Children 3 |Comedy 5 |Drama 6 |Romance 2 |Crime 2 |Adventure 1 |Fantasy 1 |War 1 |Thriller 1 
+246:Drama 93 |Romance 46 |Adventure 66 |Fantasy 50 |Mystery 24 |Sci-Fi 46 |Crime 24 |Thriller 53 |Action 72 |Western 5 |Comedy 64 |War 5 |Children 26 |Animation 31 |Musical 4 |Horror 7 |Film-Noir 3 |IMAX 26 
+247:Adventure 54 |Animation 20 |Children 22 |Comedy 31 |Fantasy 26 |Mystery 19 |Sci-Fi 29 |Thriller 38 |Crime 29 |Action 51 |Drama 64 |War 8 |IMAX 22 |Romance 15 |Musical 7 |Horror 3 |Film-Noir 1 |Western 2 
+248:Action 32 |Adventure 34 |Thriller 9 |Sci-Fi 25 |Comedy 12 |Drama 3 |Fantasy 8 |Animation 7 |Children 6 |Romance 2 |IMAX 5 |Crime 2 |Mystery 2 |(no genres listed) 1 |Documentary 1 
+249:Adventure 268 |Animation 73 |Children 63 |Comedy 384 |Fantasy 113 |Action 437 |Crime 184 |Drama 310 |Thriller 335 |Mystery 82 |Sci-Fi 226 |Musical 22 |Romance 110 |Horror 78 |War 37 |IMAX 97 |Western 16 |Film-Noir 4 |Documentary 5 
+250:Comedy 6 |Drama 16 |Thriller 8 |Crime 3 |Animation 4 |Children 4 |Musical 3 |Romance 7 |Mystery 2 |Fantasy 2 |Action 2 |War 1 |Western 1 |Adventure 4 |Sci-Fi 2 |Horror 1 
+251:Mystery 2 |Thriller 9 |Crime 8 |Drama 14 |Action 6 |Comedy 5 |Romance 3 |War 4 |Horror 1 |Adventure 3 |Fantasy 3 |Sci-Fi 1 |Animation 2 |Children 2 |IMAX 1 |Documentary 2 
+252:Adventure 17 |Animation 19 |Children 15 |Comedy 20 |Fantasy 14 |Drama 14 |Musical 4 |IMAX 5 |Romance 5 |Sci-Fi 6 |Action 10 |Thriller 2 |Crime 1 |Mystery 2 |(no genres listed) 1 
+253:Adventure 3 |Drama 29 |Fantasy 5 |Mystery 5 |Sci-Fi 2 |Romance 8 |Comedy 16 |Crime 5 |Thriller 7 |Western 1 |Documentary 8 |Film-Noir 1 |War 1 |Musical 2 |Action 1 |Animation 4 
+254:Adventure 32 |Animation 6 |Children 8 |Comedy 23 |Fantasy 10 |Mystery 19 |Sci-Fi 24 |Thriller 46 |Crime 31 |Action 36 |Drama 60 |War 7 |IMAX 4 |Romance 15 |Western 1 |Horror 8 |Film-Noir 2 |Musical 2 |Documentary 4 
+255:Comedy 17 |Action 5 |Crime 2 |Thriller 2 |Adventure 4 |Sci-Fi 3 |Musical 3 |War 1 |Children 5 |Animation 3 |Drama 1 |Romance 1 |Horror 1 
+256:Comedy 69 |Action 68 |Romance 28 |Western 3 |Adventure 60 |Crime 22 |Thriller 44 |Sci-Fi 58 |Drama 51 |Horror 8 |Children 21 |War 4 |Animation 15 |Fantasy 16 |Mystery 6 |IMAX 17 |Musical 1 |Documentary 1 
+257:Crime 4 |Drama 3 |Action 8 |Adventure 5 |Comedy 8 |Thriller 4 |Animation 1 |Children 1 |Fantasy 3 |Musical 2 |Romance 3 |Mystery 1 |Sci-Fi 1 
+258:Crime 4 |Drama 13 |War 1 |Action 8 |Adventure 8 |Comedy 3 |Fantasy 5 |Romance 4 |Sci-Fi 7 |Thriller 6 |Horror 1 |Mystery 2 |Animation 5 |Children 3 |IMAX 1 
+259:Mystery 1 |Sci-Fi 4 |Thriller 2 |Action 4 |Adventure 7 |Comedy 13 |Crime 2 |Children 4 |Fantasy 4 |Drama 8 |Romance 7 |Animation 3 |Musical 1 
+260:Adventure 16 |Drama 69 |Fantasy 17 |Mystery 12 |Sci-Fi 13 |Thriller 31 |Crime 31 |Documentary 12 |Horror 11 |Comedy 53 |Romance 22 |Animation 15 |War 2 |Children 7 |Musical 4 |Action 14 |Film-Noir 2 
+261:Crime 17 |Drama 28 |Mystery 9 |Thriller 16 |Comedy 12 |Romance 4 |War 4 |Action 14 |Adventure 2 |Sci-Fi 12 |Fantasy 1 |IMAX 3 |Western 1 
+262:Comedy 18 |Romance 13 |Drama 28 |Crime 9 |Thriller 11 |Mystery 2 |Film-Noir 1 |Action 4 |Adventure 3 |Sci-Fi 2 |Horror 1 |Fantasy 3 |Animation 1 |Children 1 |Musical 1 
+263:Adventure 46 |Animation 20 |Children 22 |Comedy 91 |Fantasy 19 |Drama 100 |Romance 86 |Sci-Fi 17 |Crime 22 |Action 41 |War 11 |IMAX 3 |Western 1 |Thriller 23 |Musical 11 |Horror 2 |Documentary 6 |Film-Noir 2 |Mystery 9 
+264:Adventure 21 |Animation 7 |Children 10 |Comedy 8 |Fantasy 10 |Drama 15 |Musical 6 |Romance 7 |IMAX 3 |Horror 3 |Action 14 |Sci-Fi 15 |War 5 |Crime 1 |Mystery 4 |Thriller 10 
+265:Mystery 6 |Sci-Fi 52 |Thriller 28 |Crime 16 |Drama 91 |Action 37 |War 10 |Adventure 34 |IMAX 1 |Horror 3 |Romance 22 |Western 3 |Comedy 29 |Children 4 |Fantasy 6 |Musical 2 
+266:Action 60 |Crime 33 |Thriller 42 |Drama 43 |Comedy 63 |Mystery 6 |Sci-Fi 29 |Adventure 37 |War 9 |Fantasy 15 |Romance 9 |Horror 7 |Musical 5 |Western 1 |Film-Noir 1 |Documentary 1 |Animation 2 |Children 2 
+267:Adventure 18 |Drama 20 |Fantasy 5 |Mystery 4 |Sci-Fi 24 |Comedy 12 |Romance 7 |Action 24 |War 2 |IMAX 1 |Thriller 20 |Crime 3 |Horror 7 |Children 2 |Musical 1 |Western 1 
+268:Adventure 11 |Drama 45 |Fantasy 4 |Mystery 9 |Sci-Fi 11 |War 3 |Thriller 19 |Crime 19 |Action 21 |Comedy 38 |Musical 2 |Romance 12 |Western 1 |Film-Noir 3 |Horror 2 
+269:Adventure 8 |Animation 2 |Children 5 |Comedy 9 |Fantasy 3 |Romance 5 |Action 9 |Crime 5 |Thriller 13 |Drama 9 |Mystery 2 |Sci-Fi 3 |Horror 1 |Musical 2 
+270:Adventure 8 |Animation 2 |Children 3 |Comedy 12 |Fantasy 3 |Romance 9 |Action 10 |Crime 6 |Thriller 11 |Drama 11 |Mystery 3 |Sci-Fi 3 |Musical 2 
+271:Mystery 2 |Sci-Fi 10 |Thriller 10 |Comedy 6 |Drama 17 |Adventure 7 |Romance 3 |War 1 |Action 4 |Horror 6 |Animation 1 |Children 1 |Fantasy 2 |Musical 2 |Crime 4 |Film-Noir 1 
+272:Crime 5 |Drama 6 |Action 16 |Sci-Fi 15 |Thriller 8 |Adventure 8 |Comedy 5 |Horror 1 |IMAX 7 |Animation 2 |Children 2 |Fantasy 1 |War 1 |Western 1 |Romance 1 |Mystery 1 
+273:Adventure 9 |Animation 6 |Children 9 |Comedy 32 |Fantasy 6 |Crime 8 |Thriller 10 |Mystery 1 |Sci-Fi 6 |Drama 21 |IMAX 3 |Romance 14 |Action 8 |Horror 3 |Musical 5 |War 1 
+274:Adventure 226 |Animation 86 |Children 120 |Comedy 397 |Fantasy 132 |Action 340 |Crime 182 |Thriller 348 |Horror 197 |Drama 346 |Mystery 91 |Sci-Fi 174 |Romance 93 |War 30 |Western 23 |Musical 41 |IMAX 25 |Film-Noir 7 |Documentary 13 
+275:Adventure 31 |Animation 11 |Children 13 |Comedy 180 |Fantasy 22 |Drama 205 |Romance 87 |Crime 72 |Thriller 62 |Mystery 24 |Sci-Fi 21 |Documentary 14 |Action 34 |War 15 |Horror 3 |Western 5 |Film-Noir 9 |Musical 6 
+276:Adventure 18 |Animation 6 |Children 11 |Comedy 26 |Fantasy 7 |Romance 5 |Horror 1 |Drama 7 |IMAX 2 |Action 11 |Sci-Fi 8 |War 2 |Musical 3 |Thriller 5 |Mystery 1 
+277:Adventure 12 |Animation 2 |Children 4 |Comedy 14 |Fantasy 5 |Mystery 1 |Sci-Fi 10 |Thriller 10 |Action 13 |Crime 1 |Romance 3 |Drama 2 |Musical 1 
+278:Crime 3 |Mystery 3 |Thriller 3 |Comedy 9 |Drama 8 |War 2 |Sci-Fi 1 |Horror 1 |Romance 2 |Action 1 |Adventure 1 |Children 1 |Musical 1 |Western 1 |Animation 1 
+279:Adventure 45 |Animation 2 |Children 2 |Comedy 32 |Fantasy 12 |Crime 45 |Mystery 19 |Thriller 63 |Action 84 |Drama 60 |War 10 |Sci-Fi 48 |Romance 8 |Horror 10 |IMAX 16 |Western 4 |Musical 1 |Film-Noir 1 
+280:Adventure 25 |Animation 8 |Children 21 |Comedy 102 |Fantasy 26 |Romance 77 |Drama 90 |Crime 23 |Mystery 10 |Thriller 19 |War 6 |Musical 10 |IMAX 8 |Action 21 |Sci-Fi 7 |Horror 3 |Documentary 1 
+281:Comedy 10 |Romance 5 |Drama 7 |Musical 1 |Crime 2 |Action 3 |Thriller 2 |Adventure 3 |Sci-Fi 1 |Fantasy 2 |IMAX 2 |War 1 
+282:Adventure 47 |Animation 15 |Children 18 |Comedy 100 |Fantasy 24 |Action 58 |Crime 60 |Thriller 57 |Drama 108 |Romance 33 |Mystery 17 |Sci-Fi 26 |IMAX 7 |War 13 |Musical 10 |Horror 5 |Western 3 |Documentary 4 
+283:Adventure 4 |Animation 1 |Children 4 |Comedy 20 |Fantasy 4 |Crime 5 |Action 6 |Horror 2 |Thriller 5 |Drama 10 |War 2 |IMAX 1 |Romance 6 |Sci-Fi 4 
+284:Adventure 22 |Children 5 |Fantasy 8 |Action 34 |Thriller 24 |Romance 19 |Comedy 51 |Crime 13 |Mystery 2 |Sci-Fi 13 |Drama 13 |War 2 |Western 3 |Animation 2 |Musical 2 |IMAX 1 
+285:Crime 7 |Drama 22 |Thriller 9 |Comedy 8 |Action 2 |Mystery 4 |Romance 5 |Horror 2 |Film-Noir 1 |Western 1 |Children 1 |War 1 |Musical 1 
+286:Action 28 |Crime 25 |Thriller 36 |Comedy 35 |Romance 20 |Mystery 7 |Horror 10 |Drama 52 |War 5 |Adventure 19 |IMAX 2 |Children 9 |Animation 6 |Musical 3 |Western 1 |Fantasy 10 |Sci-Fi 10 |Film-Noir 1 
+287:Adventure 13 |Drama 40 |Fantasy 15 |Mystery 4 |Sci-Fi 8 |Crime 10 |Thriller 8 |Comedy 39 |Romance 17 |War 5 |Animation 2 |Children 4 |Musical 4 |Action 7 |Horror 1 |Film-Noir 1 |Documentary 2 |IMAX 1 
+288:Adventure 213 |Animation 66 |Children 132 |Comedy 344 |Fantasy 97 |Romance 141 |Action 179 |Thriller 163 |Drama 360 |Crime 102 |Mystery 53 |Sci-Fi 132 |War 54 |IMAX 18 |Horror 53 |Western 34 |Musical 48 |Film-Noir 6 |Documentary 4 
+289:Comedy 11 |Romance 5 |Crime 3 |Drama 9 |War 4 |Western 2 |Animation 1 |Children 1 |Fantasy 3 |Musical 3 |Action 3 |Horror 1 |Sci-Fi 2 |Thriller 2 |Adventure 1 |Documentary 3 
+290:Adventure 35 |Animation 7 |Children 11 |Comedy 61 |Fantasy 12 |Drama 164 |Romance 47 |Sci-Fi 17 |Crime 47 |Mystery 27 |Thriller 54 |IMAX 2 |Horror 20 |Action 30 |Documentary 5 |War 23 |Musical 11 |Western 7 |Film-Noir 10 
+291:Adventure 26 |Animation 6 |Children 6 |Comedy 4 |Fantasy 15 |Action 15 |Drama 7 |IMAX 14 |Thriller 5 |Crime 2 |Sci-Fi 9 |Romance 2 |Mystery 3 |War 1 
+292:Adventure 160 |Animation 45 |Children 66 |Comedy 113 |Fantasy 52 |Action 195 |Thriller 117 |Drama 98 |Crime 52 |War 13 |Sci-Fi 93 |Romance 38 |Musical 13 |IMAX 50 |Western 8 |Horror 9 |Mystery 20 |Documentary 1 
+293:Adventure 2 |Animation 1 |Children 1 |Comedy 3 |Fantasy 1 |Action 4 |Drama 6 |Romance 2 |War 1 |Crime 3 |Horror 1 |Thriller 4 |Film-Noir 1 |Mystery 1 |Sci-Fi 2 
+294:Adventure 59 |Children 21 |Fantasy 31 |Action 62 |Crime 47 |Thriller 31 |Comedy 160 |Mystery 8 |Horror 9 |Musical 8 |War 8 |Sci-Fi 35 |Animation 9 |Romance 26 |Drama 59 |Western 7 |Film-Noir 1 |Documentary 1 
+295:Comedy 4 |Adventure 4 |Drama 19 |Fantasy 1 |Mystery 6 |Sci-Fi 2 |Crime 17 |Thriller 15 |Action 10 |Horror 1 |Children 1 |Romance 4 |Western 1 |Film-Noir 1 |War 1 |IMAX 1 
+296:Crime 6 |Mystery 3 |Thriller 7 |Action 7 |Drama 15 |War 6 |Comedy 3 |Romance 4 |Adventure 5 |Western 1 |Sci-Fi 3 |Animation 3 |Fantasy 4 |Documentary 1 |Children 1 |IMAX 1 |(no genres listed) 1 
+297:Action 14 |Crime 21 |Thriller 34 |Mystery 7 |Drama 18 |Adventure 4 |IMAX 1 |Comedy 3 |Sci-Fi 1 |Horror 1 |Romance 2 |War 1 |Film-Noir 1 
+298:Crime 70 |Drama 149 |Mystery 31 |Sci-Fi 110 |Thriller 89 |Comedy 194 |Action 142 |War 12 |Romance 45 |Adventure 112 |Animation 35 |Fantasy 57 |Horror 18 |Western 5 |Musical 7 |Film-Noir 4 |Children 11 |Documentary 8 |IMAX 34 
+299:Adventure 6 |Children 1 |Fantasy 1 |Action 12 |Horror 7 |Sci-Fi 4 |Drama 5 |Thriller 8 |Mystery 1 |Comedy 2 |Crime 2 |Romance 1 |War 2 |Western 1 
+300:Crime 8 |Drama 27 |Comedy 6 |Romance 8 |War 5 |Horror 3 |Thriller 11 |Action 7 |Sci-Fi 5 |Mystery 4 |Film-Noir 1 |Adventure 1 |Fantasy 1 |IMAX 3 |Western 1 
+301:Action 15 |Adventure 19 |Thriller 24 |Drama 49 |Romance 23 |Comedy 28 |Crime 18 |Mystery 5 |War 4 |Animation 5 |Children 7 |Musical 3 |IMAX 5 |Sci-Fi 6 |Fantasy 10 |Western 1 
+302:Comedy 6 |Romance 6 |Drama 15 |Crime 9 |Thriller 16 |Mystery 4 |Sci-Fi 5 |Action 12 |Adventure 7 |War 1 |Western 2 
+303:Crime 2 |Drama 12 |Mystery 3 |Sci-Fi 39 |Thriller 19 |Action 29 |Romance 3 |Adventure 23 |Comedy 11 |War 1 |Children 1 |Horror 4 |Fantasy 1 |IMAX 1 
+304:Adventure 58 |Animation 13 |Children 22 |Comedy 67 |Fantasy 20 |Romance 52 |Action 76 |Thriller 52 |Drama 78 |Crime 24 |Mystery 8 |Sci-Fi 47 |War 14 |IMAX 2 |Western 7 |Musical 12 |Horror 8 
+305:Adventure 140 |Children 31 |Fantasy 56 |Action 248 |Crime 143 |Thriller 224 |Drama 278 |Romance 62 |Mystery 56 |Sci-Fi 139 |Comedy 155 |Horror 57 |Western 14 |War 42 |Animation 25 |Musical 11 |Film-Noir 4 |IMAX 43 
+306:Drama 11 |Horror 14 |Mystery 3 |Adventure 31 |Animation 35 |Children 29 |Comedy 59 |Fantasy 14 |Romance 21 |Thriller 10 |Crime 8 |Musical 5 |Action 18 |Sci-Fi 8 |IMAX 7 |Western 2 
+307:Adventure 100 |Animation 33 |Children 47 |Comedy 224 |Fantasy 66 |Romance 87 |Crime 95 |Drama 207 |Mystery 44 |Sci-Fi 51 |Thriller 118 |Action 96 |Horror 43 |War 13 |Western 8 |Musical 29 |IMAX 14 |Film-Noir 5 |Documentary 2 
+308:Adventure 32 |Children 19 |Fantasy 21 |Comedy 19 |Romance 13 |Animation 14 |Drama 16 |Musical 8 |IMAX 11 |Thriller 5 |Action 13 |Sci-Fi 9 |Documentary 1 |Crime 2 
+309:Crime 17 |Mystery 12 |Thriller 20 |Comedy 12 |Drama 68 |War 16 |Romance 17 |Action 14 |Adventure 18 |Film-Noir 7 |Children 3 |Fantasy 7 |Musical 1 |Western 5 |Horror 3 |Sci-Fi 5 |Animation 1 
+310:Comedy 27 |Drama 20 |Romance 12 |Documentary 1 |Action 13 |Adventure 9 |Thriller 5 |Animation 6 |Children 6 |War 7 |Mystery 2 |Crime 7 |Sci-Fi 3 |Western 2 |Fantasy 2 |Musical 1 
+311:Crime 1 |Drama 7 |Action 5 |Sci-Fi 3 |Romance 4 |Horror 1 |Adventure 4 |Comedy 4 |Fantasy 1 |Animation 1 |Children 1 |Thriller 2 |IMAX 1 |Western 1 |War 1 
+312:Action 65 |Crime 30 |Thriller 79 |Drama 90 |Mystery 29 |Sci-Fi 81 |War 22 |Romance 20 |Horror 63 |Adventure 49 |Musical 4 |Comedy 42 |Fantasy 16 |Children 2 |Film-Noir 5 |Documentary 1 |Western 3 |IMAX 1 
+313:Action 121 |Crime 49 |Thriller 102 |Adventure 83 |Drama 75 |Fantasy 44 |Mystery 24 |Sci-Fi 96 |Comedy 60 |Romance 26 |Horror 58 |Western 5 |Animation 9 |War 9 |Children 12 |Musical 5 |Film-Noir 3 |IMAX 1 
+314:Adventure 26 |Animation 8 |Children 13 |Comedy 40 |Fantasy 14 |Action 35 |Crime 14 |Thriller 28 |Romance 25 |Drama 41 |Horror 5 |Mystery 7 |Sci-Fi 19 |War 6 |Musical 6 |IMAX 3 |Western 3 
+315:Drama 18 |Adventure 6 |Western 4 |Romance 8 |Comedy 7 |Musical 4 |Sci-Fi 3 |Children 3 |Fantasy 3 |Crime 1 |Action 4 |War 3 |Horror 1 |Thriller 1 |Animation 1 
+316:Comedy 17 |Drama 10 |Thriller 13 |Horror 6 |Action 9 |Crime 8 |Fantasy 6 |Children 1 |Musical 3 |Adventure 5 |Film-Noir 1 |Sci-Fi 5 |Romance 3 |Mystery 4 |Documentary 1 
+317:Action 45 |Crime 66 |Thriller 73 |Drama 109 |Mystery 21 |Sci-Fi 16 |War 13 |Adventure 16 |IMAX 12 |Comedy 29 |Romance 22 |Horror 10 |Film-Noir 5 |Animation 1 |Children 1 |Fantasy 2 |Documentary 5 |Musical 1 |Western 1 
+318:Adventure 173 |Children 66 |Fantasy 107 |Action 211 |Crime 133 |Thriller 183 |Comedy 269 |Drama 396 |Mystery 68 |Sci-Fi 146 |Animation 87 |Musical 26 |Romance 100 |Documentary 87 |War 43 |IMAX 57 |Western 10 |Horror 29 |Film-Noir 14 |(no genres listed) 2 
+319:Action 12 |Drama 20 |War 3 |Crime 7 |Thriller 4 |Comedy 10 |Romance 10 |Adventure 14 |Animation 10 |Children 8 |Musical 5 |IMAX 8 |Fantasy 6 |Sci-Fi 9 |Mystery 2 
+320:Children 3 |Comedy 6 |Romance 1 |Action 15 |Crime 2 |Drama 3 |Mystery 1 |Thriller 3 |Adventure 8 |Sci-Fi 8 |Animation 5 |Documentary 1 |Fantasy 2 |IMAX 3 |Horror 1 
+321:Adventure 15 |Children 8 |Fantasy 7 |Comedy 28 |Romance 16 |Crime 8 |Thriller 19 |Drama 17 |Sci-Fi 9 |IMAX 3 |Action 17 |Mystery 3 |War 2 |Horror 2 |Animation 3 |Musical 3 
+322:Adventure 17 |Animation 3 |Children 5 |Comedy 37 |Fantasy 10 |Action 18 |Thriller 27 |Drama 44 |Romance 18 |Mystery 9 |Crime 16 |War 5 |IMAX 3 |Sci-Fi 10 |Film-Noir 2 |Musical 1 |Horror 2 |Documentary 1 
+323:Adventure 15 |Animation 6 |Children 9 |Comedy 20 |Fantasy 6 |Drama 37 |Romance 12 |Crime 14 |Horror 4 |Mystery 5 |Thriller 20 |Sci-Fi 13 |Musical 4 |IMAX 5 |Action 16 |War 5 
+324:Comedy 7 |Crime 4 |Drama 9 |Thriller 3 |Action 3 |Adventure 3 |Fantasy 2 |Romance 4 |Sci-Fi 2 |Musical 1 
+325:Action 36 |Crime 50 |Thriller 74 |Drama 117 |Horror 23 |Mystery 28 |Adventure 42 |Fantasy 26 |Sci-Fi 32 |Comedy 87 |Romance 32 |Children 12 |Film-Noir 9 |Western 4 |Animation 6 |Musical 10 |War 5 
+326:Action 32 |Comedy 16 |Crime 37 |Drama 116 |Thriller 47 |Mystery 12 |War 24 |Romance 17 |Horror 3 |Adventure 23 |Sci-Fi 7 |Fantasy 6 |Documentary 4 |Musical 1 |IMAX 4 |Film-Noir 1 |Western 1 
+327:Crime 12 |Mystery 4 |Thriller 4 |Comedy 25 |Adventure 5 |Drama 15 |IMAX 2 |Romance 8 |War 1 |Animation 3 |Children 5 |Fantasy 1 |Action 5 |Western 1 |Sci-Fi 2 |Horror 4 
+328:Adventure 67 |Animation 33 |Children 42 |Comedy 66 |Fantasy 42 |Drama 61 |Mystery 10 |Thriller 30 |Crime 31 |IMAX 13 |Action 50 |Sci-Fi 31 |Romance 24 |War 8 |Musical 20 |Horror 8 |Western 4 |Documentary 1 
+329:Comedy 6 |War 1 |Crime 3 |Drama 8 |Horror 2 |Adventure 1 |Fantasy 1 |Musical 1 |Thriller 3 |Film-Noir 1 |Mystery 1 
+330:Adventure 52 |Animation 13 |Children 21 |Comedy 80 |Fantasy 31 |Romance 32 |Crime 37 |Drama 94 |Mystery 17 |Sci-Fi 45 |Thriller 48 |Action 58 |War 12 |IMAX 7 |Horror 18 |Musical 13 |Western 4 
+331:Action 51 |Adventure 45 |Thriller 48 |Crime 37 |Mystery 10 |Drama 66 |Comedy 48 |Horror 11 |Fantasy 21 |Sci-Fi 25 |Animation 14 |Children 11 |War 9 |Romance 20 |Musical 5 |IMAX 15 |Western 3 |Film-Noir 1 
+332:Adventure 62 |Animation 10 |Children 12 |Comedy 60 |Fantasy 30 |Crime 53 |Drama 122 |Mystery 18 |Thriller 66 |Action 88 |War 24 |IMAX 17 |Sci-Fi 47 |Romance 31 |Western 4 |Horror 12 |Film-Noir 4 |Musical 6 |Documentary 1 
+333:Drama 8 |War 2 |Comedy 6 |Romance 3 |Action 4 |Adventure 2 |Crime 2 |Western 1 |Thriller 1 |Horror 1 
+334:Adventure 56 |Animation 25 |Children 22 |Comedy 62 |Fantasy 28 |Action 46 |Thriller 26 |Sci-Fi 29 |Crime 15 |Drama 51 |Romance 39 |War 3 |Musical 7 |IMAX 9 |Western 1 |Mystery 10 |Horror 7 |Documentary 1 
+335:Crime 6 |Mystery 1 |Thriller 8 |Action 10 |Drama 9 |War 3 |Romance 6 |Western 2 |Comedy 11 |Adventure 3 |Sci-Fi 4 |Horror 1 
+336:Adventure 8 |Animation 3 |Children 3 |Comedy 18 |Fantasy 4 |Action 19 |Crime 18 |Thriller 19 |Mystery 7 |Horror 4 |Drama 30 |War 7 |IMAX 1 |Romance 13 |Western 1 |Sci-Fi 3 |Film-Noir 1 
+337:Adventure 14 |Animation 1 |Children 5 |Comedy 22 |Fantasy 5 |Romance 14 |Action 23 |Crime 13 |Thriller 28 |Horror 2 |Drama 35 |Sci-Fi 10 |Mystery 6 |War 3 |Musical 2 |Western 2 
+338:Crime 9 |Mystery 3 |Thriller 8 |Comedy 3 |Drama 11 |War 2 |Horror 2 |Action 4 |Adventure 3 |Sci-Fi 3 |Fantasy 1 |Romance 1 |Documentary 1 
+339:Adventure 74 |Animation 16 |Children 17 |Comedy 80 |Fantasy 21 |Action 84 |Crime 61 |Thriller 111 |Drama 210 |Mystery 38 |Sci-Fi 62 |IMAX 26 |Romance 45 |War 43 |Musical 2 |Horror 26 |Film-Noir 5 |Documentary 15 |Western 6 
+340:Action 16 |Adventure 11 |Thriller 15 |Drama 12 |War 3 |IMAX 2 |Comedy 4 |Crime 8 |Sci-Fi 8 |Horror 1 |Romance 2 |Western 1 |Animation 1 |Children 1 |Fantasy 1 |Musical 1 |Mystery 1 
+341:Adventure 16 |Animation 5 |Children 8 |Comedy 37 |Fantasy 8 |Drama 11 |Romance 8 |War 2 |Action 15 |Thriller 9 |Sci-Fi 9 |Crime 6 |Western 1 |Musical 1 |Horror 1 |IMAX 1 |Mystery 1 
+342:Drama 20 |Sci-Fi 5 |Comedy 25 |Action 9 |Crime 7 |Thriller 16 |Adventure 8 |Mystery 3 |Romance 6 |Animation 2 |Children 3 |Horror 5 |Fantasy 2 
+343:Crime 19 |Mystery 6 |Thriller 15 |Action 13 |Adventure 14 |Sci-Fi 8 |Comedy 11 |Drama 28 |War 2 |Horror 3 |Film-Noir 1 |Romance 6 |Animation 7 |Fantasy 7 |Children 3 |Documentary 3 |Western 1 
+344:Action 29 |Drama 18 |War 3 |Adventure 27 |Sci-Fi 23 |Crime 5 |Comedy 15 |Romance 12 |Thriller 12 |Children 7 |Fantasy 7 |Western 2 |Mystery 6 |Horror 1 |Animation 8 |Musical 2 |IMAX 7 
+345:Comedy 26 |Drama 34 |Romance 23 |Mystery 5 |Sci-Fi 9 |Thriller 9 |Adventure 8 |War 2 |Action 7 |Horror 12 |Fantasy 3 |Musical 2 |Crime 2 |Children 1 
+346:Drama 111 |Romance 25 |Mystery 25 |Thriller 40 |Crime 37 |Horror 22 |Action 10 |Comedy 30 |Fantasy 8 |War 5 |Western 1 |Sci-Fi 2 |Film-Noir 5 |Adventure 4 |Musical 1 |Animation 1 |Documentary 2 
+347:Adventure 17 |Animation 4 |Children 6 |Comedy 18 |Fantasy 5 |Action 17 |Thriller 16 |Drama 15 |Romance 12 |Mystery 4 |Sci-Fi 9 |War 3 |IMAX 3 |Crime 4 |Horror 1 |Western 2 |Musical 3 
+348:Crime 21 |Mystery 9 |Thriller 16 |Drama 34 |Action 16 |Adventure 11 |Sci-Fi 4 |Comedy 13 |War 7 |Western 1 |Horror 3 |Romance 8 |Fantasy 5 |Musical 1 |Documentary 1 |IMAX 2 
+349:Action 10 |Adventure 6 |Thriller 14 |Children 5 |Drama 20 |Romance 11 |Comedy 12 |Crime 8 |War 4 |Horror 2 |Western 2 |Fantasy 4 |Animation 3 |Musical 3 |IMAX 2 |Sci-Fi 2 
+350:Adventure 15 |Animation 3 |Children 4 |Comedy 18 |Fantasy 6 |Romance 7 |Horror 2 |Mystery 2 |Sci-Fi 9 |Thriller 15 |Action 14 |Crime 4 |Drama 7 |Musical 2 
+351:Comedy 25 |Horror 14 |Mystery 16 |Thriller 49 |Crime 34 |Drama 90 |Romance 28 |War 7 |Action 23 |Adventure 11 |Sci-Fi 14 |Children 5 |Fantasy 9 |Musical 3 |Animation 4 |IMAX 7 |Film-Noir 1 
+352:Mystery 38 |Thriller 106 |Crime 47 |Action 95 |Adventure 77 |Sci-Fi 78 |Comedy 54 |Drama 121 |Romance 31 |War 12 |Western 3 |Horror 36 |Fantasy 39 |Film-Noir 2 |Animation 11 |Children 9 |IMAX 34 |Musical 2 
+353:Adventure 15 |Animation 4 |Children 7 |Comedy 28 |Fantasy 5 |Action 27 |Crime 20 |Thriller 30 |Drama 28 |Romance 13 |Horror 6 |Mystery 4 |Sci-Fi 7 |War 4 |Western 5 |Documentary 1 |Musical 3 |IMAX 2 
+354:Action 89 |Adventure 52 |Thriller 83 |Mystery 22 |Sci-Fi 53 |Children 11 |Drama 84 |Fantasy 13 |Crime 43 |Comedy 66 |Horror 20 |IMAX 7 |Romance 42 |War 12 |Animation 6 |Musical 4 |Western 3 |Film-Noir 1 |Documentary 3 
+355:Adventure 10 |Children 4 |Fantasy 5 |Action 9 |Sci-Fi 9 |Comedy 14 |Drama 6 |Crime 3 |Thriller 3 |Animation 2 |Musical 2 |Romance 7 |Mystery 1 |Western 1 |War 1 
+356:Comedy 170 |Crime 45 |Thriller 50 |Mystery 13 |Drama 143 |Adventure 50 |Romance 70 |Children 10 |Action 61 |Sci-Fi 37 |War 14 |Western 3 |Animation 8 |Musical 10 |Fantasy 24 |Horror 4 |Film-Noir 2 |IMAX 6 
+357:Adventure 67 |Animation 32 |Children 49 |Comedy 158 |Fantasy 55 |Drama 176 |Romance 97 |Crime 51 |Mystery 27 |Thriller 56 |Musical 39 |Action 51 |War 14 |IMAX 17 |Sci-Fi 37 |Documentary 21 |Horror 23 |Western 8 |Film-Noir 2 
+358:Drama 21 |Romance 26 |Comedy 11 |Fantasy 5 |Horror 1 |Mystery 3 |Musical 1 |Sci-Fi 5 |Thriller 2 |Action 1 |Adventure 4 |War 1 |Animation 1 |Children 1 |IMAX 1 
+359:Adventure 19 |Animation 4 |Children 8 |Comedy 18 |Fantasy 6 |Drama 34 |Romance 17 |IMAX 1 |Crime 6 |Thriller 16 |Action 12 |Sci-Fi 12 |War 2 |Western 2 |Horror 2 |Mystery 4 |Musical 2 
+360:Comedy 3 |Horror 1 |Mystery 6 |Thriller 10 |Crime 5 |Drama 8 |Action 4 |Sci-Fi 1 |War 1 |Film-Noir 1 |Romance 1 |Fantasy 1 
+361:Action 36 |Adventure 20 |Thriller 22 |Comedy 37 |Crime 11 |Drama 22 |IMAX 5 |Romance 12 |War 5 |Sci-Fi 9 |Horror 3 |Musical 4 |Animation 4 |Children 3 |Mystery 3 |Fantasy 5 
+362:Action 40 |Crime 45 |Thriller 48 |Drama 55 |Mystery 18 |Comedy 14 |Horror 14 |War 6 |Adventure 22 |Sci-Fi 19 |Romance 7 |Fantasy 11 |Western 4 |Film-Noir 3 |Animation 5 |Children 4 |IMAX 9 |Musical 3 
+363:Crime 4 |Mystery 1 |Thriller 4 |Action 7 |Adventure 7 |Comedy 9 |Drama 9 |Romance 5 |Fantasy 2 |Sci-Fi 2 |Horror 1 
+364:Adventure 10 |Animation 2 |Children 3 |Comedy 3 |Fantasy 2 |Action 12 |Mystery 3 |Sci-Fi 5 |Thriller 13 |Crime 3 |Drama 5 |Romance 2 |Musical 2 
+365:Comedy 94 |Action 51 |Adventure 36 |Sci-Fi 27 |Crime 23 |Drama 34 |Romance 19 |War 7 |Children 8 |Fantasy 19 |Horror 7 |Animation 4 |Thriller 19 |IMAX 13 |Mystery 3 |Musical 1 |Western 2 
+366:Action 21 |Drama 13 |War 4 |Sci-Fi 6 |Crime 10 |Thriller 10 |Mystery 3 |Adventure 9 |Fantasy 4 |Comedy 4 |Romance 1 |IMAX 7 |Animation 2 |Children 1 |Film-Noir 1 
+367:Adventure 27 |Animation 10 |Children 24 |Comedy 89 |Fantasy 17 |Drama 72 |Romance 48 |IMAX 1 |Action 22 |Sci-Fi 15 |Crime 11 |War 3 |Mystery 6 |Thriller 15 |Horror 9 |Musical 8 |Western 4 |Film-Noir 1 
+368:Comedy 53 |Romance 38 |Action 151 |Crime 80 |Thriller 165 |Adventure 69 |Drama 149 |Horror 25 |Mystery 37 |War 44 |Western 10 |Film-Noir 6 |Sci-Fi 50 |Fantasy 9 |Musical 6 |Children 1 
+369:Comedy 59 |Mystery 9 |Thriller 26 |Adventure 23 |Drama 30 |IMAX 4 |Action 32 |Crime 21 |Sci-Fi 23 |Fantasy 8 |Western 1 |War 6 |Musical 9 |Romance 10 |Children 3 |Animation 4 |Documentary 4 |Horror 2 
+370:Comedy 33 |Romance 17 |Mystery 8 |Thriller 23 |Crime 21 |Action 32 |Adventure 18 |Drama 30 |Horror 5 |Fantasy 10 |Sci-Fi 12 |Animation 4 |Children 3 |IMAX 5 |Documentary 1 |Film-Noir 1 |War 1 
+371:Animation 12 |Children 5 |Drama 15 |Musical 2 |Romance 6 |Action 15 |Crime 5 |Thriller 11 |Adventure 19 |Fantasy 14 |Sci-Fi 14 |Horror 4 |Film-Noir 1 |Comedy 6 |Mystery 5 |IMAX 4 
+372:Adventure 33 |Animation 5 |Children 11 |Comedy 51 |Fantasy 13 |Action 51 |Crime 35 |Thriller 56 |Drama 89 |Romance 39 |Mystery 15 |Sci-Fi 21 |War 17 |Horror 12 |IMAX 3 |Western 6 |Film-Noir 2 |Musical 8 |Documentary 1 
+373:Adventure 12 |Animation 6 |Children 12 |Comedy 19 |Fantasy 10 |Action 17 |Crime 15 |Thriller 26 |Drama 36 |Horror 4 |Mystery 7 |Romance 14 |Sci-Fi 7 |War 4 |Western 2 |Musical 4 |IMAX 1 
+374:Action 14 |Drama 10 |War 3 |Adventure 14 |IMAX 2 |Comedy 8 |Crime 8 |Thriller 16 |Sci-Fi 6 |Romance 4 |Animation 2 |Children 2 |Musical 2 |Western 1 |Fantasy 4 |Horror 7 |Mystery 1 
+375:Mystery 4 |Sci-Fi 4 |Thriller 6 |Crime 6 |Drama 16 |Comedy 10 |Romance 8 |War 1 |Animation 3 |Children 4 |Fantasy 2 |Musical 2 |IMAX 1 |Adventure 7 |Action 9 |Horror 1 
+376:Action 68 |Adventure 46 |Thriller 47 |Mystery 12 |Sci-Fi 39 |Drama 39 |War 9 |IMAX 7 |Crime 24 |Comedy 34 |Romance 20 |Children 12 |Fantasy 14 |Western 2 |Animation 10 |Film-Noir 2 |Horror 6 |Musical 1 
+377:Mystery 8 |Sci-Fi 42 |Thriller 17 |Children 9 |Drama 44 |Adventure 27 |IMAX 4 |Comedy 39 |Fantasy 19 |Romance 10 |Action 27 |Animation 4 |Musical 6 |Horror 16 |War 9 |Crime 6 |Film-Noir 1 |Western 3 |Documentary 3 
+378:Adventure 13 |Animation 6 |Children 6 |Comedy 8 |Fantasy 8 |Crime 18 |Drama 29 |Musical 1 |IMAX 9 |War 4 |Horror 1 |Thriller 17 |Sci-Fi 6 |Action 16 |Mystery 5 |Romance 1 |Western 1 
+379:Children 2 |Drama 16 |Mystery 1 |Thriller 12 |Action 12 |War 4 |Adventure 9 |IMAX 2 |Comedy 8 |Crime 5 |Sci-Fi 5 |Horror 1 |Romance 6 |Animation 1 |Musical 1 |Fantasy 1 |Western 1 
+380:Adventure 354 |Animation 142 |Children 147 |Comedy 321 |Fantasy 190 |Action 545 |Crime 185 |Thriller 403 |Horror 165 |Drama 284 |Mystery 85 |Sci-Fi 295 |Musical 48 |Romance 79 |War 31 |Western 20 |IMAX 65 |Film-Noir 3 |Documentary 4 |(no genres listed) 1 
+381:Adventure 155 |Animation 66 |Children 79 |Comedy 168 |Fantasy 93 |Mystery 25 |Sci-Fi 72 |Thriller 94 |Drama 144 |Musical 30 |Romance 83 |Crime 38 |IMAX 27 |Action 117 |Horror 18 |War 9 |Western 4 |Documentary 7 
+382:Adventure 106 |Animation 27 |Children 37 |Comedy 81 |Fantasy 47 |Crime 33 |Mystery 12 |Thriller 73 |Drama 68 |IMAX 31 |Romance 50 |Action 111 |Sci-Fi 48 |War 11 |Horror 11 |Musical 9 |Western 3 
+383:Adventure 2 |Drama 25 |IMAX 1 |Comedy 12 |Romance 9 |Mystery 3 |Thriller 5 |Action 3 |Sci-Fi 2 |Crime 3 |War 3 |Horror 2 
+384:Adventure 11 |Children 3 |Fantasy 3 |Comedy 20 |Crime 12 |Drama 22 |Thriller 17 |Action 6 |Sci-Fi 6 |Romance 11 |Horror 2 |War 5 |Animation 2 |Mystery 3 |Western 1 
+385:Adventure 46 |Animation 15 |Children 24 |Comedy 59 |Fantasy 23 |Action 52 |Crime 29 |Thriller 35 |Drama 79 |Romance 31 |Mystery 7 |Sci-Fi 31 |IMAX 3 |Horror 7 |Documentary 1 |War 12 |Musical 18 |Western 8 |Film-Noir 2 
+386:Action 18 |Crime 12 |Thriller 22 |Adventure 10 |Drama 15 |Comedy 15 |Horror 4 |Mystery 6 |Sci-Fi 7 |Children 3 |Romance 4 |War 2 |Western 3 |Fantasy 1 |Musical 1 |Animation 1 
+387:Action 150 |Adventure 138 |Thriller 248 |Drama 401 |Fantasy 82 |Mystery 104 |Sci-Fi 96 |Crime 172 |Comedy 233 |Horror 105 |War 35 |Documentary 9 |Romance 107 |Western 17 |Animation 40 |Children 35 |Musical 26 |IMAX 6 |Film-Noir 25 
+388:Animation 15 |Children 17 |Comedy 20 |Action 3 |Adventure 15 |Fantasy 6 |Romance 4 |Musical 4 |Thriller 1 |Crime 2 |IMAX 4 
+389:Adventure 11 |Animation 1 |Children 1 |Comedy 11 |Fantasy 3 |Action 14 |Crime 5 |Thriller 15 |Drama 8 |Romance 6 |Mystery 3 |Sci-Fi 5 
+390:Action 12 |Drama 50 |War 4 |Comedy 16 |Adventure 7 |Western 1 |Fantasy 9 |Sci-Fi 11 |Crime 9 |Thriller 14 |Musical 3 |Romance 17 |Mystery 6 |Horror 2 |Animation 7 |Children 2 |Documentary 2 
+391:Adventure 54 |Animation 12 |Children 15 |Comedy 104 |Fantasy 23 |Action 62 |Crime 58 |Thriller 84 |Drama 173 |Romance 71 |Mystery 37 |Sci-Fi 37 |War 19 |IMAX 3 |Musical 18 |Western 6 |Horror 13 |Film-Noir 8 |Documentary 3 
+392:Drama 8 |Romance 5 |Action 4 |Adventure 5 |Sci-Fi 2 |Thriller 4 |Comedy 6 |Fantasy 3 |Crime 2 |Horror 1 
+393:Action 56 |Drama 34 |War 3 |Crime 24 |Thriller 48 |Comedy 16 |Mystery 16 |Adventure 43 |Fantasy 16 |Sci-Fi 38 |Horror 7 |Romance 6 |Animation 2 |Film-Noir 1 |Documentary 1 |IMAX 17 |Children 1 |Musical 1 
+394:Children 1 |Drama 6 |Crime 5 |Mystery 1 |Thriller 7 |Action 8 |War 2 |Adventure 4 |IMAX 1 |Comedy 5 |Romance 3 |Fantasy 1 |Sci-Fi 1 |Western 1 
+395:Adventure 19 |Children 17 |Fantasy 10 |Action 22 |Thriller 12 |Drama 13 |War 3 |Mystery 2 |Sci-Fi 10 |Crime 7 |Romance 11 |Comedy 20 |Animation 7 |Musical 6 |IMAX 2 |Western 2 
+396:Adventure 5 |Animation 8 |Children 8 |Comedy 11 |Fantasy 4 |Drama 8 |Thriller 5 |Crime 5 |Mystery 3 |Action 1 |Musical 2 |Romance 4 
+397:Drama 12 |Mystery 5 |Romance 6 |Comedy 9 |War 1 |Sci-Fi 1 |Action 2 |Crime 6 |Thriller 4 |Film-Noir 1 |Adventure 1 
+398:Mystery 4 |Sci-Fi 7 |Thriller 5 |Drama 20 |Romance 11 |Comedy 16 |Crime 3 |Musical 3 |Children 5 |Fantasy 13 |Adventure 12 |Action 6 |Horror 2 |Animation 8 |Documentary 3 |IMAX 1 |Western 1 
+399:Adventure 20 |Animation 6 |Children 6 |Comedy 9 |Fantasy 7 |Action 17 |Drama 12 |War 4 |Sci-Fi 8 |Crime 5 |Thriller 7 |Romance 3 |Horror 2 |Mystery 1 
+400:Action 17 |Crime 18 |Thriller 15 |Mystery 5 |Adventure 12 |Sci-Fi 12 |Drama 22 |Comedy 6 |Romance 2 |War 1 |Horror 2 |Fantasy 5 |IMAX 4 |Animation 1 |Children 1 
+401:Adventure 46 |Animation 48 |Children 44 |Comedy 39 |Fantasy 29 |Romance 15 |Drama 12 |War 1 |Musical 12 |IMAX 13 |Sci-Fi 10 |Mystery 1 |Action 15 |Horror 1 |Thriller 2 |Crime 1 |Western 1 
+402:Comedy 17 |Action 22 |Drama 19 |Romance 9 |Crime 11 |Mystery 1 |Thriller 23 |Adventure 11 |Sci-Fi 6 |Animation 2 |Children 3 |Musical 3 |IMAX 1 |War 1 |Fantasy 2 |Horror 1 
+403:Mystery 5 |Thriller 12 |Action 9 |Drama 18 |War 3 |Comedy 9 |Romance 5 |Crime 10 |Adventure 6 |Fantasy 1 |Horror 1 |Western 1 |Animation 1 |Children 1 |Sci-Fi 4 |IMAX 1 
+404:Comedy 19 |Drama 35 |Romance 19 |Crime 9 |Thriller 20 |Children 3 |Mystery 2 |Action 19 |War 6 |Sci-Fi 7 |Horror 3 |Adventure 9 |Fantasy 3 |Western 4 |Animation 2 |Musical 2 |IMAX 1 
+405:Crime 37 |Drama 79 |Romance 12 |Mystery 27 |Sci-Fi 26 |Thriller 42 |Action 28 |Comedy 28 |Horror 12 |War 6 |Adventure 14 |Western 3 |Fantasy 14 |Film-Noir 6 |Animation 3 |Musical 1 |IMAX 1 
+406:Comedy 8 |Drama 6 |Fantasy 3 |Horror 2 |Thriller 2 |Animation 2 |Children 2 |Musical 1 |Romance 4 |Action 3 |Sci-Fi 1 |Adventure 1 |IMAX 1 
+407:Action 15 |Adventure 10 |Sci-Fi 6 |Crime 6 |Drama 8 |Thriller 8 |War 1 |Fantasy 5 |Mystery 1 |Comedy 2 |IMAX 2 |Animation 2 |Children 2 
+408:Action 76 |Adventure 51 |Thriller 41 |Comedy 49 |Fantasy 28 |Crime 29 |Sci-Fi 30 |Drama 37 |Animation 1 |Children 5 |Musical 3 |Romance 9 |War 9 |Mystery 14 |Western 1 |Horror 2 |IMAX 19 |Documentary 1 
+409:Comedy 70 |Romance 17 |Crime 19 |Drama 45 |Thriller 12 |Action 11 |Adventure 9 |Sci-Fi 6 |Horror 7 |Children 2 |Fantasy 7 |Musical 5 |War 5 |Western 3 |Documentary 1 |Mystery 2 
+410:Comedy 86 |Romance 41 |Drama 97 |Crime 31 |Thriller 21 |Film-Noir 10 |Mystery 15 |Action 3 |Adventure 8 |Sci-Fi 2 |War 7 |Musical 4 |Horror 2 |Children 2 |Fantasy 11 |Documentary 2 |Animation 1 |Western 2 
+411:Adventure 20 |Animation 3 |Children 9 |Comedy 36 |Fantasy 6 |Romance 25 |Action 26 |Thriller 34 |Drama 53 |Crime 15 |Horror 4 |Mystery 8 |War 6 |IMAX 2 |Sci-Fi 9 |Documentary 1 |Western 5 |Musical 3 
+412:Drama 34 |Romance 25 |Children 2 |Mystery 15 |Thriller 20 |Documentary 5 |Crime 18 |Horror 4 |Comedy 46 |Action 12 |Adventure 10 |Film-Noir 5 |Sci-Fi 5 |Fantasy 5 |Western 1 |IMAX 1 |Animation 1 |Musical 1 |War 1 
+413:Crime 20 |Drama 26 |Comedy 15 |Thriller 11 |War 5 |Horror 2 |Action 19 |Adventure 3 |Romance 10 |Western 3 |Fantasy 5 |IMAX 1 |Mystery 1 
+414:Adventure 361 |Animation 110 |Children 139 |Comedy 780 |Fantasy 173 |Romance 395 |Action 501 |Crime 344 |Thriller 472 |Drama 1120 |Horror 92 |Mystery 129 |Sci-Fi 256 |Musical 89 |War 112 |IMAX 51 |Documentary 58 |Western 43 |Film-Noir 13 |(no genres listed) 2 
+415:Mystery 13 |Thriller 28 |Crime 27 |Drama 46 |Comedy 28 |Adventure 13 |IMAX 3 |Action 23 |Sci-Fi 7 |Romance 20 |War 4 |Animation 1 |Children 2 |Musical 2 |Horror 3 |Film-Noir 5 |Fantasy 3 |Western 3 |Documentary 1 
+416:Action 5 |Adventure 2 |Crime 10 |Thriller 7 |Drama 21 |Sci-Fi 4 |Comedy 12 |Romance 8 |War 3 |Fantasy 3 |Horror 1 |Documentary 1 |Film-Noir 1 |Mystery 2 
+417:Mystery 13 |Thriller 25 |Action 15 |Crime 20 |Comedy 10 |Drama 41 |Romance 9 |War 3 |Horror 5 |Sci-Fi 14 |Adventure 14 |Animation 2 |Children 3 |Fantasy 8 |IMAX 6 
+418:Crime 16 |Mystery 11 |Thriller 21 |Drama 49 |Comedy 19 |Romance 14 |War 4 |Horror 2 |Action 11 |Adventure 20 |Fantasy 14 |Sci-Fi 12 |Musical 2 |Children 1 |Western 1 |Film-Noir 2 |IMAX 8 |Documentary 1 
+419:Action 46 |Adventure 15 |Thriller 55 |Mystery 13 |Crime 29 |Comedy 27 |Drama 66 |War 17 |Sci-Fi 23 |Romance 11 |Horror 18 |Animation 1 |Musical 1 |Documentary 15 |IMAX 6 |Fantasy 3 
+420:Adventure 35 |Animation 12 |Children 10 |Comedy 59 |Fantasy 24 |Mystery 11 |Sci-Fi 30 |Thriller 34 |Drama 60 |War 14 |Crime 14 |Romance 22 |Musical 11 |IMAX 5 |Action 38 |Horror 18 |Film-Noir 2 |Documentary 6 
+421:Drama 27 |War 5 |Crime 3 |Horror 1 |Thriller 5 |Mystery 2 |Comedy 8 |Romance 8 |Children 3 |Fantasy 2 |Action 2 |Adventure 5 |Western 2 |Sci-Fi 1 |Animation 1 
+422:Adventure 7 |Animation 1 |Children 4 |Comedy 17 |Fantasy 4 |Action 16 |Sci-Fi 7 |Crime 8 |Drama 34 |War 9 |Thriller 14 |Mystery 8 |Romance 9 |Film-Noir 3 |Western 6 |Horror 6 |Musical 1 
+423:Comedy 5 |Action 7 |Drama 9 |War 2 |Adventure 3 |IMAX 1 |Crime 5 |Thriller 7 |Romance 2 |Sci-Fi 5 |Fantasy 1 |Western 1 |Mystery 1 
+424:Mystery 34 |Sci-Fi 7 |Thriller 60 |Crime 40 |Drama 67 |Comedy 38 |Action 17 |Adventure 2 |Animation 4 |Children 2 |Musical 3 |IMAX 3 |Fantasy 7 |Romance 11 |Horror 17 |Film-Noir 4 |War 2 |Western 1 
+425:Adventure 80 |Children 21 |Fantasy 26 |Action 115 |Crime 61 |Thriller 104 |Mystery 28 |Sci-Fi 59 |Drama 126 |Comedy 86 |Romance 43 |Horror 30 |War 16 |IMAX 6 |Animation 16 |Musical 7 |Western 3 |Film-Noir 1 
+426:Adventure 25 |Children 18 |Fantasy 17 |Drama 31 |IMAX 10 |Comedy 33 |Crime 6 |Thriller 4 |Romance 23 |War 1 |Animation 15 |Musical 6 |Action 9 |Sci-Fi 8 |Mystery 2 
+427:Crime 12 |Drama 33 |Action 18 |War 7 |Romance 11 |Comedy 10 |Thriller 21 |Sci-Fi 9 |Western 1 |Adventure 9 |Mystery 10 |Fantasy 7 |Horror 1 |Documentary 2 |IMAX 1 
+428:Crime 22 |Drama 52 |Horror 21 |Mystery 10 |Thriller 49 |Comedy 51 |Action 69 |Romance 19 |Western 2 |Sci-Fi 46 |Adventure 39 |Fantasy 21 |War 12 |Animation 12 |Children 7 |Musical 6 |Film-Noir 1 |IMAX 4 |Documentary 2 
+429:Crime 6 |Drama 29 |Horror 1 |Mystery 3 |Thriller 14 |Animation 3 |Children 7 |Musical 3 |Romance 22 |Adventure 12 |Fantasy 3 |IMAX 2 |Action 16 |War 3 |Film-Noir 1 |Comedy 19 |Sci-Fi 5 |Western 4 
+430:Children 8 |Drama 27 |Crime 8 |Adventure 16 |Sci-Fi 14 |Comedy 19 |Romance 11 |War 1 |Mystery 7 |Action 14 |Thriller 11 |Fantasy 7 |Horror 2 |Animation 7 |IMAX 2 
+431:Action 3 |Romance 4 |Western 1 |Comedy 5 |Thriller 4 |Crime 2 |Drama 3 |Mystery 2 |War 1 |Fantasy 1 |Adventure 1 
+432:Adventure 51 |Animation 14 |Children 17 |Comedy 35 |Fantasy 18 |Drama 130 |Romance 54 |Crime 51 |Mystery 34 |Thriller 87 |Action 65 |War 14 |Horror 20 |Sci-Fi 41 |Musical 4 |IMAX 16 |Western 1 |Film-Noir 1 
+433:Mystery 5 |Thriller 11 |Crime 13 |Action 6 |Drama 11 |War 1 |Comedy 4 |Horror 1 |Romance 1 |Adventure 2 |Sci-Fi 2 |IMAX 2 
+434:Adventure 57 |Animation 19 |Children 14 |Comedy 58 |Fantasy 24 |Action 74 |Crime 48 |Thriller 60 |Mystery 17 |Sci-Fi 46 |Drama 86 |Romance 25 |War 13 |IMAX 9 |Western 2 |Musical 4 |Horror 14 |Documentary 1 
+435:Animation 2 |Children 3 |Drama 22 |Musical 1 |Romance 4 |Crime 14 |Mystery 6 |Thriller 15 |Adventure 9 |Action 17 |Western 2 |Comedy 9 |Fantasy 2 |Sci-Fi 8 |IMAX 5 
+436:Adventure 21 |Animation 10 |Children 28 |Comedy 49 |Fantasy 14 |Drama 37 |Musical 7 |Romance 17 |Action 22 |Crime 10 |Thriller 24 |IMAX 3 |War 3 |Mystery 2 |Sci-Fi 5 |Western 3 |Horror 2 
+437:Action 24 |Crime 24 |Thriller 23 |Drama 80 |Romance 27 |Mystery 8 |Sci-Fi 11 |Comedy 34 |Adventure 17 |War 13 |IMAX 1 |Documentary 1 |Fantasy 4 |Western 2 |Children 2 
+438:Adventure 129 |Animation 35 |Children 32 |Comedy 214 |Fantasy 54 |Action 238 |Crime 91 |Thriller 152 |Drama 186 |Romance 108 |Mystery 22 |Sci-Fi 88 |Horror 12 |War 21 |IMAX 15 |Musical 17 |Western 6 |Film-Noir 2 |Documentary 9 
+439:Action 10 |Drama 7 |War 4 |Crime 2 |Comedy 4 |Romance 1 |Sci-Fi 3 |Thriller 3 |Adventure 9 |Animation 3 |Children 3 |Fantasy 5 |IMAX 2 |Documentary 1 
+440:Adventure 7 |Drama 18 |Fantasy 3 |Mystery 3 |Sci-Fi 18 |Comedy 9 |Crime 1 |Horror 4 |Action 5 |Thriller 9 |Romance 4 |Animation 2 |Western 1 |Film-Noir 1 |War 1 |Children 1 
+441:Action 25 |Adventure 19 |Thriller 10 |Mystery 4 |Comedy 20 |Sci-Fi 12 |Crime 9 |Drama 8 |Horror 5 |Fantasy 8 |Animation 2 |Children 1 |Romance 2 |IMAX 5 |War 1 
+442:Adventure 1 |Children 1 |Romance 1 
+443:Adventure 13 |Animation 1 |Children 1 |Comedy 7 |Fantasy 7 |Action 13 |Drama 23 |War 2 |Sci-Fi 11 |Crime 8 |Thriller 11 |Romance 7 |Horror 5 |Mystery 3 |IMAX 5 
+444:Action 11 |Crime 16 |Thriller 17 |Drama 20 |Comedy 12 |Mystery 3 |Romance 8 |War 4 |Adventure 3 |Sci-Fi 4 |Fantasy 5 |Western 1 |Horror 2 |Children 3 |Animation 1 |Musical 1 |IMAX 1 
+445:Drama 38 |Romance 14 |Mystery 7 |Sci-Fi 10 |Thriller 22 |Action 18 |War 9 |Crime 15 |Adventure 17 |Comedy 22 |Western 1 |Horror 3 |Animation 4 |Children 4 |Musical 1 |Fantasy 11 |IMAX 4 
+446:Adventure 16 |Children 8 |Fantasy 8 |Action 19 |Thriller 24 |Comedy 29 |Drama 31 |Romance 21 |Crime 11 |Mystery 6 |Sci-Fi 10 |IMAX 3 |War 3 |Horror 2 |Animation 5 |Musical 5 |Western 2 
+447:Adventure 17 |Children 10 |Fantasy 8 |Action 32 |Thriller 31 |Drama 33 |Animation 5 |Musical 5 |Romance 16 |War 4 |Comedy 26 |Crime 15 |IMAX 3 |Horror 4 |Mystery 3 |Western 6 |Sci-Fi 7 
+448:Adventure 250 |Animation 72 |Children 96 |Comedy 569 |Fantasy 92 |Romance 135 |Action 320 |Thriller 240 |Crime 184 |Drama 372 |Mystery 59 |Musical 47 |IMAX 43 |War 38 |Western 39 |Sci-Fi 155 |Horror 25 |Documentary 18 |Film-Noir 3 
+449:Mystery 4 |Sci-Fi 1 |Thriller 8 |Crime 10 |Action 6 |Drama 15 |Comedy 8 |War 5 |Adventure 2 |Romance 4 |Documentary 1 
+450:Action 16 |Drama 26 |War 3 |Crime 5 |Thriller 11 |Adventure 8 |Sci-Fi 8 |Animation 1 |Children 2 |Fantasy 3 |Musical 3 |Mystery 4 |Romance 7 |Comedy 12 |Horror 5 |Western 2 
+451:Adventure 10 |Animation 2 |Children 3 |Comedy 12 |Fantasy 3 |Action 12 |Crime 5 |Thriller 17 |Romance 9 |Drama 10 |Mystery 2 |Sci-Fi 4 |Horror 1 |Musical 2 
+452:Action 111 |Adventure 66 |Thriller 83 |Fantasy 13 |Mystery 22 |Comedy 59 |Horror 23 |Drama 54 |War 9 |Crime 39 |Romance 21 |Western 1 |Sci-Fi 61 |Children 3 |Musical 3 |Film-Noir 1 |Animation 3 
+453:Adventure 51 |Animation 11 |Children 11 |Comedy 147 |Fantasy 16 |Crime 56 |Drama 111 |Thriller 82 |Mystery 21 |Sci-Fi 35 |Action 82 |Horror 10 |War 17 |Romance 59 |Western 3 |Musical 6 |IMAX 2 |Film-Noir 1 |Documentary 1 
+454:Comedy 8 |Drama 23 |Adventure 4 |Crime 11 |Romance 5 |Thriller 21 |Horror 14 |Mystery 14 |Action 5 |War 2 |Film-Noir 1 |Sci-Fi 4 |Animation 2 |Fantasy 3 
+455:Comedy 18 |Drama 31 |Romance 15 |Children 5 |Crime 10 |Mystery 2 |Thriller 20 |Action 15 |War 6 |Adventure 10 |IMAX 3 |Horror 2 |Western 3 |Sci-Fi 5 |Fantasy 5 |Animation 4 |Musical 4 
+456:Adventure 10 |Animation 3 |Children 6 |Comedy 18 |Fantasy 6 |Romance 10 |Action 10 |Mystery 4 |Sci-Fi 5 |Thriller 12 |Drama 12 |Crime 4 |Horror 2 |Musical 2 
+457:Action 18 |Drama 9 |War 1 |Comedy 11 |Adventure 18 |Sci-Fi 13 |Thriller 9 |Children 2 |Fantasy 3 |Musical 2 |Romance 5 |Animation 2 |Crime 4 |Mystery 3 |Horror 2 
+458:Adventure 14 |Children 6 |Fantasy 4 |Comedy 22 |Action 20 |Thriller 21 |Crime 8 |Drama 27 |Romance 21 |Animation 4 |Musical 4 |War 4 |IMAX 3 |Sci-Fi 6 |Western 1 |Mystery 1 
+459:Action 13 |Adventure 15 |Sci-Fi 10 |Thriller 5 |Drama 9 |Romance 1 |Animation 8 |Children 6 |Comedy 4 |Fantasy 4 |IMAX 5 |Mystery 3 |War 1 |Crime 1 |Western 1 
+460:Adventure 28 |Animation 12 |Children 13 |Comedy 23 |Fantasy 15 |Drama 41 |IMAX 7 |Crime 14 |Romance 14 |War 3 |Action 26 |Sci-Fi 20 |Thriller 23 |Horror 4 |Mystery 11 |Musical 1 
+461:Comedy 6 |Romance 6 |Crime 5 |Drama 16 |War 2 |Fantasy 1 |Thriller 3 |Horror 2 |Adventure 1 |Mystery 2 |Action 1 |Western 1 
+462:Action 42 |Adventure 26 |Thriller 61 |Crime 56 |Drama 176 |Comedy 100 |Romance 35 |Mystery 16 |Sci-Fi 26 |Documentary 65 |Horror 18 |War 26 |Children 3 |Fantasy 17 |Musical 10 |Film-Noir 9 |Western 7 |Animation 4 |IMAX 4 
+463:Action 17 |Drama 17 |War 12 |Comedy 8 |Crime 4 |Thriller 7 |Romance 6 |Adventure 10 |Sci-Fi 4 |Musical 1 |Mystery 1 |Horror 3 |IMAX 1 |Fantasy 3 |Animation 1 |Children 1 |Documentary 1 
+464:Action 49 |Crime 29 |Drama 53 |Comedy 16 |Thriller 48 |Romance 18 |Mystery 13 |Sci-Fi 27 |War 12 |Adventure 33 |Western 4 |Horror 4 |Children 4 |Film-Noir 1 |Fantasy 5 |IMAX 5 |Animation 1 |Musical 1 
+465:Action 42 |Adventure 21 |Thriller 65 |Crime 34 |Drama 55 |Film-Noir 8 |Mystery 21 |Sci-Fi 23 |Comedy 15 |Romance 17 |War 22 |Horror 8 |Musical 2 |Fantasy 3 |Western 4 |Animation 1 |Children 1 
+466:Crime 20 |Drama 37 |Comedy 32 |Romance 13 |War 5 |Action 57 |Sci-Fi 24 |Thriller 36 |Adventure 51 |Children 16 |Animation 14 |Fantasy 22 |Mystery 10 |IMAX 22 |Horror 2 |Musical 1 
+467:Drama 12 |War 8 |Comedy 3 |Romance 7 |Action 4 |Western 1 |Thriller 1 
+468:Adventure 8 |Animation 3 |Children 4 |Comedy 9 |Fantasy 4 |Mystery 2 |Sci-Fi 3 |Thriller 11 |Romance 4 |Action 9 |Drama 12 |War 2 |Crime 7 |IMAX 2 |Horror 1 |Western 2 |Musical 2 
+469:Adventure 89 |Animation 7 |Children 15 |Comedy 153 |Fantasy 33 |Action 114 |Crime 70 |Thriller 114 |Drama 177 |Romance 67 |Mystery 38 |Sci-Fi 91 |War 25 |Musical 12 |Western 11 |Horror 34 |Film-Noir 13 
+470:Adventure 21 |Animation 4 |Children 8 |Comedy 28 |Fantasy 9 |Romance 17 |Action 26 |Crime 17 |Thriller 30 |Drama 34 |Mystery 5 |Sci-Fi 8 |War 6 |IMAX 3 |Horror 1 |Western 2 |Musical 4 
+471:Adventure 8 |Animation 6 |Children 6 |Comedy 13 |Fantasy 6 |Crime 4 |Drama 12 |Thriller 7 |Romance 6 |War 5 |Action 10 |Sci-Fi 5 |Horror 1 |IMAX 3 |Mystery 1 |Musical 1 
+472:Crime 8 |Mystery 2 |Thriller 5 |Comedy 9 |Drama 15 |Fantasy 5 |Sci-Fi 3 |Horror 1 |Romance 2 |Adventure 5 |Action 4 |IMAX 3 
+473:Children 1 |Drama 20 |Action 3 |Crime 4 |Thriller 7 |Adventure 3 |Fantasy 5 |Romance 7 |Comedy 11 |Animation 2 |Mystery 4 |Sci-Fi 4 |Documentary 2 |Horror 1 
+474:Adventure 218 |Animation 70 |Children 105 |Comedy 569 |Fantasy 113 |Action 172 |Crime 212 |Thriller 302 |Romance 430 |Drama 1047 |Horror 73 |Mystery 126 |Sci-Fi 122 |War 101 |Musical 112 |Documentary 90 |IMAX 15 |Western 41 |Film-Noir 46 
+475:Adventure 102 |Children 26 |Fantasy 38 |Comedy 45 |Action 96 |Crime 12 |Thriller 40 |Sci-Fi 79 |Drama 21 |Animation 24 |Musical 3 |IMAX 36 |Romance 10 |Western 1 |Horror 3 |War 4 |Mystery 4 
+476:Adventure 17 |Animation 11 |Children 19 |Comedy 26 |Fantasy 8 |Action 14 |Thriller 19 |Drama 32 |Romance 22 |Mystery 3 |Sci-Fi 4 |Musical 6 |War 3 |IMAX 3 |Crime 7 |Western 2 
+477:Adventure 156 |Animation 77 |Children 70 |Comedy 228 |Fantasy 94 |Romance 65 |Drama 217 |Sci-Fi 173 |Mystery 51 |Thriller 118 |Action 168 |Musical 18 |IMAX 25 |Crime 57 |War 19 |Western 8 |Horror 39 |Film-Noir 6 |Documentary 8 
+478:Drama 4 |Mystery 1 |Thriller 1 |Adventure 5 |Comedy 4 |Western 1 |Animation 2 |Children 3 |Fantasy 3 |Musical 2 |Action 5 |Romance 2 |Sci-Fi 2 |Crime 1 |IMAX 1 
+479:Drama 63 |Sci-Fi 14 |Comedy 76 |Thriller 17 |Romance 36 |Musical 12 |Crime 12 |Action 13 |Adventure 18 |Fantasy 12 |Horror 4 |Animation 11 |Children 16 |Mystery 4 |War 4 |Western 4 |Documentary 1 
+480:Adventure 121 |Animation 34 |Children 43 |Comedy 235 |Fantasy 74 |Action 149 |Crime 104 |Thriller 135 |Drama 304 |Mystery 51 |Sci-Fi 68 |Romance 99 |War 37 |IMAX 14 |Western 10 |Documentary 12 |Horror 39 |Musical 26 |Film-Noir 4 
+481:Adventure 2 |Children 1 |Drama 11 |Romance 5 |War 1 |Action 5 |Sci-Fi 4 |Thriller 7 |Mystery 4 |Crime 4 |Film-Noir 1 |Comedy 1 
+482:Adventure 33 |Children 8 |Fantasy 14 |Crime 11 |Mystery 7 |Thriller 35 |Drama 34 |Action 52 |Western 1 |Sci-Fi 22 |Comedy 40 |Romance 21 |War 1 |Horror 5 |Musical 3 |IMAX 5 |Animation 3 
+483:Adventure 170 |Animation 86 |Children 71 |Comedy 292 |Fantasy 122 |Crime 88 |Drama 225 |Action 182 |Thriller 112 |Mystery 47 |Sci-Fi 112 |Musical 38 |Romance 140 |War 24 |Horror 27 |Western 9 |IMAX 34 |Film-Noir 3 |Documentary 5 
+484:Adventure 26 |Animation 28 |Children 41 |Comedy 150 |Fantasy 30 |Romance 53 |Mystery 24 |Thriller 43 |Drama 77 |Musical 20 |Crime 43 |Action 38 |Sci-Fi 18 |War 4 |IMAX 11 |Horror 18 |Film-Noir 1 |Documentary 1 
+485:Action 10 |Adventure 8 |Thriller 11 |Drama 9 |War 3 |IMAX 1 |Crime 5 |Sci-Fi 3 |Comedy 4 |Romance 3 |Animation 1 |Children 1 |Musical 1 |Western 1 |Horror 1 
+486:Action 35 |Crime 15 |Thriller 28 |Adventure 25 |Comedy 11 |Mystery 4 |Sci-Fi 11 |Romance 7 |Fantasy 6 |Drama 13 |War 4 |IMAX 1 |Western 2 |Horror 2 |Children 2 |Animation 1 |Musical 1 
+487:Action 12 |Adventure 15 |Sci-Fi 9 |Crime 5 |Drama 19 |Comedy 14 |War 3 |Mystery 4 |Thriller 10 |Fantasy 8 |Romance 11 |Animation 6 |Children 5 |Horror 3 |IMAX 1 
+488:Adventure 22 |Animation 14 |Children 15 |Comedy 51 |Fantasy 17 |Drama 41 |Romance 27 |Crime 10 |IMAX 4 |Documentary 2 |Thriller 6 |War 4 |Horror 3 |Musical 8 |Mystery 4 |Film-Noir 2 |Action 7 |Sci-Fi 2 |Western 1 
+489:Adventure 103 |Children 35 |Fantasy 66 |Comedy 169 |Romance 134 |Drama 204 |Crime 62 |Horror 36 |Mystery 34 |Thriller 101 |Sci-Fi 64 |Animation 32 |Musical 31 |Action 113 |War 20 |IMAX 21 |Western 7 |Film-Noir 2 |Documentary 3 
+490:Adventure 18 |Animation 6 |Children 5 |Comedy 30 |Fantasy 13 |Drama 50 |Romance 20 |Crime 14 |Thriller 19 |War 3 |Horror 1 |Mystery 7 |Sci-Fi 10 |Musical 1 |Action 17 |IMAX 10 
+491:Comedy 49 |Drama 24 |Fantasy 14 |Romance 22 |War 1 |Action 6 |Crime 6 |Children 6 |Sci-Fi 2 |Adventure 11 |Animation 4 |Thriller 1 |IMAX 5 |Mystery 2 
+492:Adventure 27 |Animation 5 |Children 14 |Comedy 54 |Fantasy 10 |Romance 14 |Action 39 |Crime 13 |Thriller 42 |Horror 8 |Drama 30 |Mystery 5 |Sci-Fi 15 |War 1 |Musical 4 
+493:Action 45 |Crime 15 |Thriller 19 |Drama 18 |War 3 |Romance 5 |Western 2 |Adventure 17 |Sci-Fi 12 |Comedy 10 |Fantasy 4 |Horror 3 
+494:Action 16 |Drama 6 |War 3 |Adventure 11 |Sci-Fi 9 |Thriller 4 |Crime 4 |Horror 2 |Western 1 
+495:Comedy 85 |Crime 51 |Mystery 19 |Thriller 65 |Action 73 |Drama 120 |Adventure 45 |IMAX 13 |Children 6 |Sci-Fi 36 |Fantasy 15 |Romance 30 |War 15 |Animation 7 |Musical 5 |Film-Noir 2 |Horror 9 |Documentary 2 |Western 1 
+496:Crime 3 |Drama 12 |Mystery 1 |Thriller 1 |Romance 9 |Animation 3 |Musical 3 |Adventure 8 |Children 2 |Comedy 4 |Fantasy 5 |Action 7 |IMAX 3 |Sci-Fi 4 
+497:Adventure 6 |Children 3 |Fantasy 2 |Comedy 7 |Crime 10 |Mystery 6 |Thriller 11 |Drama 25 |Animation 3 |Musical 1 |Horror 3 |War 4 |Action 7 |Romance 8 |Sci-Fi 4 |IMAX 2 
+498:Comedy 12 |Romance 4 |Action 12 |Adventure 12 |Thriller 14 |Children 3 |Drama 14 |Mystery 2 |War 3 |IMAX 2 |Crime 6 |Sci-Fi 3 |Animation 2 |Musical 2 |Western 1 
+499:Action 6 |Adventure 7 |Western 7 |Comedy 5 |Musical 5 |Drama 10 |Horror 4 |Sci-Fi 2 |Fantasy 3 |Children 2 |Mystery 1 |Thriller 6 |Animation 1 |Documentary 1 |Romance 1 |Crime 1 
+500:Adventure 16 |Animation 20 |Children 17 |Comedy 52 |Fantasy 12 |Romance 20 |Action 8 |Sci-Fi 6 |Drama 21 |War 1 |Musical 10 |IMAX 2 |Thriller 6 |Crime 5 |Horror 2 |Mystery 2 
+501:Adventure 12 |Children 5 |Fantasy 1 |Comedy 13 |Romance 6 |Action 11 |Crime 10 |Thriller 17 |Drama 13 |Mystery 4 |Sci-Fi 5 |Horror 2 |Animation 3 |War 1 |Musical 1 
+502:Comedy 10 |Drama 11 |Thriller 6 |Crime 5 |Animation 3 |Children 3 |Fantasy 2 |Musical 4 |Mystery 1 |Romance 2 |Adventure 5 |Sci-Fi 8 |Horror 4 |War 1 |Action 2 |Western 1 
+503:Drama 53 |Comedy 18 |Crime 18 |Thriller 22 |Action 9 |Sci-Fi 8 |Romance 10 |War 5 |Adventure 7 |Animation 4 |Children 4 |Musical 3 |IMAX 2 |Horror 7 |Mystery 8 |Fantasy 2 |Documentary 1 
+504:Adventure 8 |Animation 3 |Children 5 |Comedy 45 |Fantasy 10 |Crime 18 |Drama 51 |Horror 1 |Mystery 5 |Thriller 15 |Romance 31 |Action 5 |Sci-Fi 2 |Documentary 3 |IMAX 1 |Musical 2 |War 2 |Western 1 
+505:Mystery 4 |Thriller 11 |Drama 9 |Horror 16 |Sci-Fi 6 |Crime 3 |Animation 4 |Children 5 |Fantasy 6 |Musical 4 |Romance 1 |Action 9 |Adventure 2 |Comedy 8 
+506:Children 1 |Drama 24 |Comedy 14 |Romance 18 |Fantasy 3 |Crime 6 |Mystery 1 |Thriller 4 |Musical 1 |Horror 2 |Sci-Fi 3 |Documentary 1 |Adventure 2 |War 1 |Western 1 |Action 2 |IMAX 1 
+507:Children 2 |Drama 9 |Comedy 4 |Romance 6 |Mystery 1 |Thriller 8 |Action 8 |War 3 |Adventure 5 |IMAX 2 |Crime 4 |Horror 2 |Western 2 |Sci-Fi 3 |Animation 1 |Fantasy 1 |Musical 1 
+508:Comedy 4 |Drama 2 |War 1 |Adventure 3 |Sci-Fi 3 |Western 1 
+509:Adventure 140 |Animation 97 |Children 103 |Comedy 163 |Fantasy 102 |Drama 142 |Romance 98 |Mystery 22 |Sci-Fi 68 |Thriller 46 |Musical 41 |Action 93 |Crime 35 |IMAX 40 |War 5 |Horror 12 |Western 6 |Film-Noir 2 |Documentary 1 
+510:Crime 18 |Mystery 6 |Thriller 14 |Adventure 13 |Comedy 32 |Romance 14 |Action 19 |Drama 40 |Sci-Fi 7 |War 5 |Documentary 1 |Horror 3 |Film-Noir 2 |Fantasy 6 |Western 1 |Children 3 |Animation 1 |IMAX 1 |Musical 1 
+511:Crime 5 |Drama 30 |Comedy 8 |Romance 5 |War 3 |Action 22 |Adventure 18 |Sci-Fi 21 |Thriller 16 |Horror 4 |Fantasy 6 |Children 3 |Mystery 4 |Musical 1 |Animation 1 |IMAX 6 |Western 1 
+512:Adventure 12 |Children 5 |Fantasy 5 |Mystery 5 |Sci-Fi 8 |Thriller 21 |Comedy 12 |Romance 9 |Crime 9 |Action 19 |Drama 23 |War 5 |IMAX 3 |Horror 2 |Animation 3 |Musical 3 |Western 2 
+513:Comedy 9 |Romance 5 |Mystery 2 |Sci-Fi 6 |Thriller 7 |Action 8 |Drama 12 |War 4 |Adventure 9 |IMAX 1 |Western 3 |Crime 3 |Horror 1 |Musical 1 |Fantasy 4 |Animation 1 |Children 1 
+514:Adventure 59 |Animation 22 |Children 32 |Comedy 109 |Fantasy 32 |Drama 112 |Romance 37 |Crime 39 |Horror 39 |Mystery 19 |Thriller 66 |IMAX 12 |War 8 |Documentary 4 |Action 74 |Sci-Fi 49 |Musical 16 |Film-Noir 2 |Western 6 |(no genres listed) 1 
+515:Crime 10 |Mystery 4 |Thriller 8 |Action 14 |Adventure 7 |Sci-Fi 10 |Drama 13 |Comedy 1 |Romance 2 |War 5 |IMAX 4 |Animation 1 |Children 1 |Horror 1 |Fantasy 1 
+516:Action 5 |Adventure 8 |Sci-Fi 3 |Thriller 3 |Crime 5 |Drama 10 |War 4 |Comedy 13 |Romance 6 |Fantasy 3 |Animation 1 |Children 1 |Western 1 
+517:Adventure 49 |Animation 27 |Children 52 |Comedy 65 |Fantasy 40 |Drama 79 |Action 17 |Sci-Fi 11 |Crime 14 |Romance 50 |War 14 |Musical 34 |IMAX 12 |Western 2 |Thriller 14 |Horror 2 |Mystery 8 
+518:Drama 9 |Sci-Fi 6 |Comedy 6 |Romance 3 |Animation 2 |Children 2 |Musical 2 |Action 6 |Adventure 6 |Fantasy 2 |Horror 3 |Mystery 3 |Thriller 7 |Crime 3 |IMAX 1 
+519:Crime 11 |Drama 12 |Comedy 14 |Romance 9 |War 1 |Action 7 |Thriller 4 |Mystery 1 |Adventure 2 |Sci-Fi 1 |IMAX 1 
+520:Action 59 |Adventure 60 |Thriller 33 |Mystery 10 |Sci-Fi 59 |Comedy 85 |Drama 48 |Horror 12 |Crime 23 |Romance 22 |War 5 |Western 2 |Fantasy 28 |Animation 10 |Children 12 |Musical 3 |Film-Noir 1 |Documentary 1 |IMAX 3 
+521:Comedy 14 |Action 10 |Crime 9 |Thriller 16 |Romance 10 |Drama 20 |Adventure 9 |Fantasy 4 |Mystery 5 |Sci-Fi 5 |Animation 1 |Children 3 |Musical 2 
+522:Adventure 50 |Animation 10 |Children 5 |Comedy 56 |Fantasy 18 |Action 67 |Thriller 46 |Crime 43 |Mystery 18 |Drama 74 |War 8 |Romance 18 |Sci-Fi 48 |Musical 6 |IMAX 19 |Horror 4 |Film-Noir 1 |Documentary 2 |Western 2 
+523:Adventure 29 |Children 14 |Fantasy 28 |Action 23 |Crime 12 |Drama 39 |Thriller 13 |Comedy 21 |Romance 18 |War 4 |Animation 24 |Musical 4 |IMAX 6 |Sci-Fi 12 |Horror 4 |Mystery 3 
+524:Adventure 44 |Animation 2 |Children 4 |Comedy 31 |Fantasy 11 |Action 60 |Crime 13 |Thriller 38 |Drama 36 |Romance 13 |Mystery 5 |Sci-Fi 24 |War 11 |IMAX 1 |Horror 5 |Western 5 |Musical 2 |Film-Noir 1 
+525:Adventure 128 |Animation 73 |Children 85 |Comedy 198 |Fantasy 70 |Drama 167 |Romance 114 |Mystery 16 |Thriller 65 |Musical 56 |Crime 41 |IMAX 38 |Action 107 |Sci-Fi 66 |War 12 |Horror 9 |Western 2 |Documentary 28 |Film-Noir 1 |(no genres listed) 1 
+526:Drama 45 |Romance 13 |Comedy 24 |Crime 13 |Thriller 6 |Horror 1 |Action 7 |War 3 |Adventure 9 |Fantasy 2 |Animation 3 |Children 3 |Mystery 2 |Sci-Fi 3 |IMAX 1 
+527:Adventure 82 |Children 38 |Fantasy 27 |Drama 51 |Animation 16 |Musical 19 |Romance 21 |Action 43 |Sci-Fi 37 |IMAX 3 |Thriller 32 |Comedy 47 |Western 3 |Crime 7 |Horror 20 |Film-Noir 1 |Mystery 10 |War 7 |Documentary 1 
+528:Adventure 9 |Animation 3 |Children 2 |Comedy 10 |Fantasy 2 |Action 23 |Drama 30 |War 3 |IMAX 7 |Crime 22 |Thriller 22 |Romance 4 |Sci-Fi 6 |Horror 2 |Mystery 5 |Film-Noir 1 |Documentary 1 
+529:Adventure 10 |Animation 2 |Children 4 |Comedy 8 |Fantasy 5 |Mystery 2 |Sci-Fi 4 |Thriller 7 |Drama 2 |Action 8 |Musical 2 |Romance 2 
+530:Comedy 9 |Drama 15 |Romance 9 |Adventure 5 |IMAX 1 |Thriller 12 |War 2 |Action 7 |Sci-Fi 4 |Crime 3 |Mystery 1 |Children 1 |Fantasy 1 |Western 1 |Horror 1 
+531:Action 8 |Adventure 13 |Thriller 5 |Sci-Fi 5 |Drama 5 |Western 1 |Crime 2 |Horror 1 |Children 1 |Fantasy 2 |Musical 1 |Comedy 3 |Romance 2 
+532:Action 28 |Crime 21 |Thriller 21 |Drama 27 |War 5 |Adventure 8 |Sci-Fi 9 |Mystery 3 |Horror 6 |Comedy 3 |Film-Noir 1 |Western 1 |Romance 5 |Fantasy 1 
+533:Adventure 8 |Animation 3 |Children 3 |Comedy 14 |Fantasy 5 |Drama 12 |Romance 4 |War 1 |Action 12 |Horror 22 |Sci-Fi 12 |Mystery 5 |Thriller 13 |Crime 6 |Western 1 |Musical 1 |IMAX 1 
+534:Adventure 234 |Animation 81 |Children 81 |Comedy 206 |Fantasy 106 |Action 267 |Thriller 114 |Drama 94 |Mystery 18 |Musical 22 |Romance 52 |Crime 55 |Sci-Fi 146 |Horror 32 |War 16 |IMAX 68 |Western 6 |Film-Noir 1 
+535:Comedy 10 |Romance 5 |Drama 5 |Action 2 |Sci-Fi 1 |Thriller 1 |Crime 2 |Animation 1 |Musical 1 |Horror 1 |Mystery 1 
+536:Comedy 10 |Drama 18 |Thriller 11 |Action 7 |War 3 |Adventure 6 |IMAX 1 |Romance 2 |Sci-Fi 4 |Horror 2 |Mystery 2 |Crime 2 |Western 3 
+537:Crime 17 |Drama 20 |Action 15 |Comedy 12 |Fantasy 8 |Romance 2 |Sci-Fi 4 |Thriller 14 |Adventure 9 |Horror 1 |War 2 |IMAX 6 |Mystery 2 |Documentary 1 |Western 1 
+538:Adventure 12 |Children 11 |Animation 8 |Drama 11 |Musical 13 |IMAX 5 |Comedy 21 |Fantasy 7 |Romance 12 |Sci-Fi 2 |Action 3 |Western 1 |Crime 1 |Mystery 1 
+539:Comedy 25 |Crime 4 |Drama 9 |War 1 |Action 10 |Adventure 15 |Fantasy 8 |Romance 6 |Sci-Fi 2 |Horror 2 |Animation 10 |Children 11 |Musical 1 |IMAX 1 
+540:Mystery 5 |Thriller 16 |Action 21 |Comedy 12 |Crime 9 |Drama 9 |Adventure 14 |Sci-Fi 12 |Romance 2 |Children 2 |Fantasy 6 |Musical 1 |War 1 |Horror 4 |Animation 1 |IMAX 3 |Film-Noir 1 
+541:Adventure 21 |Animation 9 |Children 9 |Comedy 30 |Fantasy 5 |Romance 16 |Action 24 |Thriller 26 |Drama 30 |Crime 13 |Horror 5 |Mystery 4 |War 3 |Sci-Fi 7 |Western 4 |Musical 5 |IMAX 2 
+542:Mystery 8 |Thriller 25 |Comedy 44 |Romance 17 |Crime 17 |Drama 35 |War 1 |Adventure 20 |Animation 13 |Children 15 |Musical 9 |IMAX 3 |Fantasy 13 |Sci-Fi 20 |Action 19 |Horror 4 |Western 1 
+543:Comedy 42 |Action 15 |Crime 13 |Thriller 12 |Adventure 11 |Drama 19 |Romance 18 |War 2 |Animation 7 |Children 8 |Musical 3 |IMAX 4 |Fantasy 7 |Sci-Fi 11 |Horror 6 |Mystery 4 |Western 1 
+544:Adventure 6 |Animation 1 |Children 1 |Comedy 6 |Fantasy 1 |Romance 4 |Drama 8 |Mystery 2 |Sci-Fi 3 |Thriller 7 |Action 7 |Documentary 1 |Crime 1 |Horror 1 
+545:Action 8 |Adventure 3 |Fantasy 1 |Sci-Fi 5 |Thriller 9 |Crime 4 |War 2 |Children 2 |Comedy 5 |Drama 3 |Mystery 3 |Romance 2 |Horror 1 |IMAX 1 
+546:Action 13 |Comedy 10 |Horror 17 |Thriller 15 |Crime 4 |Drama 14 |Mystery 2 |Adventure 7 |Sci-Fi 10 |Romance 3 |Children 1 |Fantasy 2 |War 1 
+547:Action 3 |Sci-Fi 2 |Thriller 5 |Drama 11 |Mystery 2 |Documentary 2 |Fantasy 2 |Romance 6 |War 2 |Comedy 5 |Film-Noir 1 |Crime 3 |Musical 1 
+548:Comedy 8 |Action 12 |Adventure 7 |Sci-Fi 5 |Drama 11 |Romance 3 |War 2 |Thriller 4 |Crime 5 |Fantasy 1 |IMAX 1 |Documentary 1 |Mystery 1 
+549:Action 12 |Drama 8 |War 2 |Crime 7 |Thriller 7 |Sci-Fi 4 |Adventure 4 |Mystery 2 |Fantasy 2 |IMAX 2 
+550:Adventure 14 |Animation 4 |Children 3 |Comedy 6 |Fantasy 2 |Crime 6 |Drama 11 |Romance 3 |War 3 |Action 15 |Sci-Fi 15 |Thriller 8 |IMAX 7 |Mystery 1 
+551:Mystery 12 |Thriller 49 |Action 71 |Drama 42 |War 11 |Adventure 46 |Sci-Fi 32 |Crime 27 |Comedy 19 |Romance 11 |Horror 3 |Animation 6 |Children 5 |Fantasy 9 |IMAX 15 |Documentary 1 |Film-Noir 1 
+552:Comedy 63 |Drama 68 |Romance 27 |Crime 22 |Thriller 29 |Adventure 40 |Sci-Fi 23 |War 10 |Western 2 |Action 37 |Animation 10 |Children 12 |Fantasy 17 |Musical 14 |Mystery 10 |Film-Noir 2 |Horror 6 |IMAX 1 
+553:Action 18 |Crime 47 |Thriller 35 |Drama 51 |Mystery 7 |Sci-Fi 4 |Adventure 7 |Comedy 21 |Romance 11 |Film-Noir 1 |Fantasy 1 |Documentary 4 |War 1 
+554:Action 8 |Adventure 10 |Crime 5 |Thriller 9 |Drama 40 |Animation 11 |Children 17 |Musical 28 |IMAX 2 |War 4 |Comedy 25 |Horror 4 |Fantasy 11 |Romance 27 |Sci-Fi 5 |Mystery 2 |Western 1 
+555:Adventure 86 |Animation 8 |Children 27 |Comedy 240 |Fantasy 37 |Romance 84 |Crime 57 |Thriller 104 |Drama 171 |Sci-Fi 103 |Mystery 28 |Action 113 |War 16 |Documentary 1 |IMAX 1 |Horror 58 |Western 10 |Film-Noir 1 |Musical 10 
+556:Adventure 26 |Animation 2 |Children 6 |Comedy 3 |Musical 2 |Fantasy 25 |Horror 2 |Mystery 3 |Romance 3 |Action 12 |Drama 6 |IMAX 11 |Thriller 3 |Sci-Fi 4 
+557:Action 13 |Adventure 15 |Thriller 6 |Drama 6 |IMAX 1 |Crime 3 |Comedy 6 |Sci-Fi 7 |War 2 |Mystery 1 |Romance 3 |Fantasy 4 |Horror 1 |Animation 3 |Children 3 
+558:Comedy 16 |Drama 28 |Romance 12 |Crime 10 |Thriller 18 |Action 10 |Fantasy 11 |Horror 3 |Children 6 |Musical 2 |Sci-Fi 3 |War 4 |Adventure 11 |Animation 3 |Mystery 5 
+559:Adventure 38 |Animation 14 |Children 21 |Comedy 51 |Fantasy 18 |Action 52 |Crime 17 |Thriller 38 |Romance 25 |Mystery 5 |Sci-Fi 24 |Drama 40 |Musical 12 |War 4 |IMAX 3 |Horror 5 |Western 2 
+560:Adventure 94 |Animation 33 |Children 19 |Comedy 143 |Fantasy 54 |Mystery 41 |Sci-Fi 92 |Thriller 121 |Crime 77 |Action 143 |Horror 21 |Drama 187 |War 16 |IMAX 21 |Romance 64 |Western 9 |Musical 15 |Documentary 9 |Film-Noir 2 |(no genres listed) 1 
+561:Adventure 130 |Animation 22 |Children 28 |Comedy 146 |Fantasy 57 |Action 180 |Crime 69 |Thriller 114 |Mystery 36 |Sci-Fi 105 |Romance 44 |Drama 142 |War 34 |Horror 36 |Musical 9 |IMAX 29 |Film-Noir 5 |Western 5 
+562:Adventure 36 |Animation 11 |Children 15 |Comedy 80 |Fantasy 20 |Crime 40 |Mystery 20 |Thriller 71 |Action 50 |Drama 113 |War 8 |IMAX 8 |Romance 53 |Musical 5 |Sci-Fi 34 |Horror 55 |Western 1 |Documentary 1 |Film-Noir 2 
+563:Adventure 25 |Children 31 |Fantasy 23 |Animation 17 |Drama 79 |Musical 23 |Romance 97 |Comedy 115 |War 4 |IMAX 8 |Action 13 |Sci-Fi 10 |Horror 5 |Crime 8 |Thriller 9 |Mystery 3 
+564:Comedy 133 |Romance 45 |Crime 23 |Drama 34 |War 2 |Fantasy 4 |Adventure 13 |Sci-Fi 6 |Western 1 |Action 24 |Thriller 12 |Musical 1 |Children 1 |Horror 1 |Mystery 4 |IMAX 1 
+565:Comedy 13 |Crime 7 |Thriller 11 |Mystery 3 |Sci-Fi 1 |Children 2 |Drama 10 |Adventure 5 |IMAX 1 |Action 6 |Romance 7 |War 2 |Fantasy 1 |Animation 1 |Musical 1 |Western 1 
+566:Adventure 15 |Children 2 |Fantasy 4 |Comedy 28 |Romance 23 |Action 19 |Thriller 20 |Drama 28 |Crime 8 |Mystery 3 |Sci-Fi 9 |War 6 |IMAX 1 |Horror 1 |Western 3 |Animation 1 |Musical 1 
+567:Adventure 39 |Animation 22 |Children 12 |Comedy 34 |Fantasy 20 |Crime 12 |Romance 16 |Drama 76 |War 11 |Action 31 |Sci-Fi 37 |Thriller 28 |Film-Noir 1 |Western 2 |Horror 5 |Mystery 14 |IMAX 10 |Musical 1 |(no genres listed) 2 
+568:Crime 3 |Mystery 1 |Thriller 5 |Drama 15 |Comedy 10 |Romance 4 |War 3 |Action 1 |Adventure 3 |Sci-Fi 2 |Horror 1 |Musical 2 |Children 1 |Fantasy 1 |Western 1 
+569:Action 11 |Adventure 10 |Thriller 11 |Crime 7 |Mystery 1 |Comedy 7 |Drama 5 |Sci-Fi 3 |Romance 4 |War 1 |Animation 2 |Children 2 |Musical 2 |Western 1 |Fantasy 1 |IMAX 1 
+570:Adventure 55 |Animation 8 |Children 11 |Comedy 46 |Fantasy 22 |Action 63 |Thriller 53 |Drama 77 |Romance 33 |Mystery 15 |Sci-Fi 47 |War 9 |Crime 25 |IMAX 4 |Horror 10 |Musical 2 |Western 1 
+571:Drama 8 |Horror 43 |Sci-Fi 10 |Thriller 19 |Action 6 |Adventure 6 |Animation 1 |Fantasy 8 |Crime 1 |Comedy 9 |Mystery 6 |Romance 3 |Musical 1 
+572:Adventure 26 |Animation 5 |Children 5 |Comedy 50 |Fantasy 5 |Drama 80 |Romance 40 |Crime 21 |Thriller 25 |IMAX 1 |War 20 |Action 27 |Sci-Fi 14 |Western 6 |Horror 3 |Mystery 12 |Film-Noir 1 |Musical 2 
+573:Adventure 97 |Animation 24 |Children 26 |Comedy 90 |Fantasy 35 |Action 134 |Crime 57 |Thriller 97 |Mystery 25 |Drama 82 |War 17 |IMAX 26 |Romance 22 |Western 2 |Sci-Fi 64 |Musical 9 |Horror 26 |Documentary 3 |Film-Noir 2 
+574:Mystery 1 |Thriller 9 |Action 7 |Drama 9 |War 2 |Adventure 8 |IMAX 2 |Comedy 7 |Crime 5 |Sci-Fi 3 |Romance 3 |Animation 2 |Children 2 |Musical 2 |Horror 1 |Fantasy 1 
+575:Comedy 19 |Crime 5 |Drama 10 |Thriller 7 |Adventure 2 |War 1 |Romance 6 |Mystery 1 |Horror 2 |Action 3 |Sci-Fi 1 |Fantasy 2 
+576:Adventure 5 |Drama 3 |Fantasy 5 |Mystery 1 |Sci-Fi 3 |Animation 2 |Comedy 7 |Children 1 |Action 5 |Horror 3 |Thriller 4 |Romance 1 |Crime 2 
+577:Action 65 |Crime 18 |Thriller 33 |Comedy 32 |Romance 22 |Drama 79 |War 22 |Adventure 55 |Sci-Fi 40 |Western 4 |Horror 8 |Mystery 7 |Children 10 |Fantasy 8 |Musical 3 |Animation 2 
+578:Drama 17 |Romance 14 |Comedy 9 |Children 1 |Fantasy 2 |Horror 1 |Thriller 3 |Action 2 |Crime 1 |Mystery 1 |Adventure 1 
+579:Adventure 16 |Animation 17 |Children 19 |Comedy 29 |Fantasy 8 |Drama 32 |Romance 22 |Musical 12 |Action 19 |War 5 |IMAX 2 |Crime 4 |Sci-Fi 11 |Thriller 14 |Mystery 5 |Horror 2 
+580:Adventure 102 |Animation 15 |Children 17 |Comedy 73 |Fantasy 31 |Action 147 |Crime 82 |Thriller 146 |Drama 164 |Horror 26 |Mystery 40 |Romance 51 |Sci-Fi 126 |War 20 |Musical 5 |IMAX 12 |Western 11 |Documentary 2 |Film-Noir 3 
+581:Crime 5 |Drama 24 |Comedy 7 |Romance 9 |War 5 |Action 7 |Sci-Fi 9 |Thriller 8 |Horror 1 |Mystery 3 |Adventure 14 |Animation 5 |Children 6 |Fantasy 10 |IMAX 4 
+582:Action 28 |Adventure 25 |Sci-Fi 21 |Crime 7 |Horror 2 |Thriller 19 |Drama 19 |Mystery 6 |Fantasy 10 |Animation 8 |IMAX 22 |Children 5 |Romance 3 |War 3 |Comedy 7 |Western 1 
+583:Comedy 39 |Romance 21 |Animation 10 |Children 11 |Crime 3 |Drama 11 |Thriller 1 |Fantasy 7 |War 1 |Adventure 9 |Musical 8 |IMAX 2 |Action 1 |Horror 2 
+584:Adventure 18 |Animation 5 |Children 10 |Comedy 28 |Fantasy 7 |Action 28 |Thriller 28 |Crime 12 |Drama 30 |Horror 4 |Mystery 5 |Musical 5 |Romance 16 |War 3 |IMAX 3 |Sci-Fi 13 |Western 1 
+585:Crime 32 |Drama 43 |Comedy 16 |Thriller 21 |Mystery 9 |War 2 |Adventure 3 |Animation 2 |Romance 2 |Action 9 |Sci-Fi 3 |Children 1 |Documentary 1 |Film-Noir 1 |IMAX 2 |Fantasy 1 
+586:Adventure 116 |Children 53 |Fantasy 45 |Action 113 |Drama 47 |War 7 |Thriller 50 |Romance 21 |Crime 22 |Sci-Fi 68 |Comedy 63 |Western 3 |Animation 50 |Musical 6 |Horror 5 |Mystery 9 |IMAX 36 |(no genres listed) 1 
+587:Adventure 27 |Animation 3 |Children 9 |Comedy 107 |Fantasy 11 |Drama 75 |Romance 53 |Crime 20 |Thriller 18 |Mystery 9 |Sci-Fi 22 |Action 24 |War 6 |Western 5 |Film-Noir 2 |Musical 6 |Horror 1 
+588:Comedy 9 |Romance 5 |Action 15 |Crime 15 |Thriller 22 |Adventure 8 |Drama 26 |Horror 2 |Mystery 5 |War 4 |IMAX 2 |Western 2 |Sci-Fi 4 |Animation 1 |Children 1 |Musical 1 
+589:Drama 25 |Romance 7 |Crime 8 |Thriller 14 |Adventure 5 |IMAX 1 |War 3 |Action 4 |Comedy 9 |Documentary 1 |Mystery 2 |Children 3 |Fantasy 2 |Western 1 |Horror 1 |Sci-Fi 3 
+590:Adventure 152 |Animation 32 |Children 56 |Comedy 179 |Fantasy 63 |Romance 94 |Action 182 |Crime 110 |Thriller 157 |Drama 267 |Mystery 57 |Sci-Fi 85 |War 45 |IMAX 22 |Western 24 |Musical 34 |Horror 30 |Film-Noir 22 |Documentary 2 
+591:Comedy 17 |Action 12 |Adventure 13 |Sci-Fi 8 |Drama 15 |Romance 7 |War 1 |Western 1 |Thriller 8 |Animation 5 |Children 4 |Musical 1 |Horror 2 |Mystery 4 |Fantasy 1 |Crime 2 
+592:Adventure 29 |Children 8 |Fantasy 12 |Action 38 |Crime 18 |Thriller 30 |Romance 14 |Comedy 36 |Drama 24 |Sci-Fi 15 |Horror 5 |War 3 |IMAX 3 |Mystery 4 |Western 6 |Animation 5 |Musical 4 
+593:Children 8 |Drama 39 |War 5 |Crime 14 |Mystery 5 |Thriller 11 |Action 15 |Comedy 23 |Adventure 19 |IMAX 5 |Sci-Fi 6 |Romance 26 |Animation 6 |Musical 6 |Horror 1 |Fantasy 8 |Film-Noir 1 
+594:Adventure 38 |Children 14 |Fantasy 14 |Comedy 84 |Romance 86 |Drama 72 |Animation 5 |Musical 8 |Action 83 |Horror 14 |Thriller 47 |War 6 |Crime 20 |IMAX 4 |Mystery 6 |Sci-Fi 34 |Western 1 |Documentary 1 
+595:Crime 3 |Mystery 2 |Thriller 5 |Drama 10 |Fantasy 3 |Romance 5 |Action 3 |Adventure 3 |Sci-Fi 4 |Comedy 6 |Animation 2 |Children 2 |Musical 1 
+596:Adventure 136 |Animation 48 |Children 43 |Comedy 102 |Fantasy 70 |Mystery 36 |Sci-Fi 113 |Thriller 75 |Drama 126 |Romance 57 |Crime 51 |IMAX 42 |Action 159 |War 7 |Musical 20 |Documentary 2 |Horror 17 |Film-Noir 2 |Western 3 |(no genres listed) 1 
+597:Adventure 66 |Animation 8 |Children 19 |Comedy 188 |Fantasy 31 |Action 98 |Crime 66 |Thriller 92 |Drama 181 |Romance 82 |Mystery 35 |War 21 |Documentary 2 |Sci-Fi 35 |Western 8 |Musical 15 |Horror 15 |Film-Noir 11 
+598:Action 5 |Adventure 6 |Comedy 6 |Fantasy 3 |Romance 8 |Crime 3 |Thriller 4 |Mystery 2 |Drama 8 |Sci-Fi 4 |IMAX 2 
+599:Adventure 224 |Animation 90 |Children 63 |Comedy 325 |Fantasy 106 |Action 371 |Crime 236 |Thriller 273 |Drama 545 |Romance 153 |Mystery 94 |Sci-Fi 213 |Horror 68 |War 49 |Western 24 |Musical 31 |IMAX 35 |Film-Noir 22 |Documentary 41 |(no genres listed) 2 
+600:Adventure 106 |Animation 47 |Children 75 |Comedy 249 |Fantasy 103 |Romance 104 |Drama 185 |Mystery 26 |Sci-Fi 59 |Thriller 72 |War 10 |Crime 44 |Action 64 |Horror 39 |Western 9 |Musical 48 |IMAX 6 |Film-Noir 3 |Documentary 12 
+601:Adventure 40 |Animation 21 |Children 18 |Comedy 20 |Fantasy 19 |Mystery 12 |Thriller 25 |Crime 17 |Drama 49 |War 8 |Action 37 |Romance 16 |Sci-Fi 20 |Horror 1 |IMAX 10 |Western 1 |Documentary 1 |(no genres listed) 2 
+602:Adventure 25 |Children 6 |Fantasy 6 |Action 41 |Crime 28 |Thriller 51 |Comedy 31 |Drama 59 |Romance 22 |Horror 3 |Mystery 10 |Sci-Fi 14 |War 7 |IMAX 2 |Western 3 |Film-Noir 2 |Documentary 1 |Animation 2 |Musical 2 
+603:Adventure 71 |Animation 2 |Children 11 |Comedy 249 |Fantasy 40 |Action 110 |Crime 125 |Thriller 165 |Drama 456 |Romance 174 |Mystery 63 |Sci-Fi 54 |Horror 63 |Documentary 26 |Western 17 |Film-Noir 22 |Musical 27 |War 26 
+604:Adventure 19 |Animation 7 |Children 13 |Comedy 27 |Fantasy 12 |Action 31 |Crime 19 |Thriller 29 |Drama 38 |Romance 13 |Horror 22 |Mystery 4 |Sci-Fi 16 |War 2 |Musical 4 |IMAX 2 |Western 2 
+605:Adventure 85 |Animation 21 |Children 44 |Comedy 68 |Fantasy 109 |Drama 49 |Romance 53 |War 8 |Action 54 |IMAX 13 |Crime 7 |Sci-Fi 22 |Mystery 7 |Thriller 17 |Musical 20 |Western 3 |Horror 10 |Documentary 1 
+606:Adventure 115 |Animation 40 |Children 43 |Comedy 359 |Fantasy 84 |Action 97 |Romance 328 |Drama 655 |Mystery 85 |Sci-Fi 63 |Thriller 163 |Crime 117 |Horror 40 |War 61 |Western 13 |Musical 43 |Film-Noir 8 |Documentary 5 |IMAX 10 
+607:Adventure 39 |Animation 5 |Children 17 |Comedy 48 |Fantasy 21 |Drama 77 |Romance 26 |Crime 25 |Action 67 |War 5 |IMAX 1 |Thriller 58 |Horror 34 |Mystery 17 |Sci-Fi 31 |Western 2 |Musical 4 
+608:Adventure 139 |Animation 41 |Children 44 |Comedy 189 |Fantasy 74 |Action 215 |Thriller 223 |Crime 125 |Drama 222 |Mystery 60 |Sci-Fi 121 |Romance 62 |Horror 75 |Musical 19 |War 17 |Western 6 |IMAX 10 |Film-Noir 3 |Documentary 4 
+609:Adventure 10 |Animation 1 |Children 2 |Comedy 7 |Fantasy 1 |Action 11 |Thriller 14 |Drama 19 |War 4 |Documentary 2 |IMAX 1 |Crime 6 |Sci-Fi 5 |Horror 2 |Romance 5 |Western 1 
+610:Adventure 242 |Animation 64 |Children 51 |Comedy 377 |Fantasy 131 |Action 440 |Crime 246 |Thriller 435 |Drama 453 |Mystery 111 |Sci-Fi 213 |Horror 261 |War 44 |Romance 108 |Western 32 |Musical 12 |Film-Noir 10 |Documentary 5 |IMAX 74 
